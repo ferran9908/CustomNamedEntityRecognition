@@ -1,0 +1,1212 @@
+the patient has been diagnosed with abdominal aortic aneurysm
+the patient is suffering from abdominal aortic aneurysm
+the patient has abdominal aortic aneurysm
+this looks like a case of abdominal aortic aneurysm
+the patient has been diagnosed with acne
+the patient is suffering from acne
+the patient has acne
+this looks like a case of acne
+the patient has been diagnosed with acute cholecystitis
+the patient is suffering from acute cholecystitis
+the patient has acute cholecystitis
+this looks like a case of acute cholecystitis
+the patient has been diagnosed with acute lymphoblastic leukaemia
+the patient is suffering from acute lymphoblastic leukaemia
+the patient has acute lymphoblastic leukaemia
+this looks like a case of acute lymphoblastic leukaemia
+the patient has been diagnosed with acute myeloid leukaemia
+the patient is suffering from acute myeloid leukaemia
+the patient has acute myeloid leukaemia
+this looks like a case of acute myeloid leukaemia
+the patient has been diagnosed with acute pancreatitis
+the patient is suffering from acute pancreatitis
+the patient has acute pancreatitis
+this looks like a case of acute pancreatitis
+the patient has been diagnosed with addison's disease
+the patient is suffering from addison's disease
+the patient has addison's disease
+this looks like a case of addison's disease
+the patient has been diagnosed with alcohol-related liver disease
+the patient is suffering from alcohol-related liver disease
+the patient has alcohol-related liver disease
+this looks like a case of alcohol-related liver disease
+the patient has been diagnosed with allergic rhinitis
+the patient is suffering from allergic rhinitis
+the patient has allergic rhinitis
+this looks like a case of allergic rhinitis
+the patient has been diagnosed with allergies
+the patient is suffering from allergies
+the patient has allergies
+this looks like a case of allergies
+the patient has been diagnosed with alzheimer's disease
+the patient is suffering from alzheimer's disease
+the patient has alzheimer's disease
+this looks like a case of alzheimer's disease
+the patient has been diagnosed with anal cancer
+the patient is suffering from anal cancer
+the patient has anal cancer
+this looks like a case of anal cancer
+the patient has been diagnosed with anaphylaxis
+the patient is suffering from anaphylaxis
+the patient has anaphylaxis
+this looks like a case of anaphylaxis
+the patient has been diagnosed with angioedema
+the patient is suffering from angioedema
+the patient has angioedema
+this looks like a case of angioedema
+the patient has been diagnosed with ankylosing spondylitis
+the patient is suffering from ankylosing spondylitis
+the patient has ankylosing spondylitis
+this looks like a case of ankylosing spondylitis
+the patient has been diagnosed with anorexia nervosa
+the patient is suffering from anorexia nervosa
+the patient has anorexia nervosa
+this looks like a case of anorexia nervosa
+the patient has been diagnosed with anxiety
+the patient is suffering from anxiety
+the patient has anxiety
+this looks like a case of anxiety
+the patient has been diagnosed with anxiety disorders 
+the patient is suffering from anxiety disorders 
+the patient has anxiety disorders 
+this looks like a case of anxiety disorders 
+the patient has been diagnosed with appendicitis
+the patient is suffering from appendicitis
+the patient has appendicitis
+this looks like a case of appendicitis
+the patient has been diagnosed with arthritis
+the patient is suffering from arthritis
+the patient has arthritis
+this looks like a case of arthritis
+the patient has been diagnosed with asbestosis
+the patient is suffering from asbestosis
+the patient has asbestosis
+this looks like a case of asbestosis
+the patient has been diagnosed with asthma
+the patient is suffering from asthma
+the patient has asthma
+this looks like a case of asthma
+the patient has been diagnosed with atopic eczema
+the patient is suffering from atopic eczema
+the patient has atopic eczema
+this looks like a case of atopic eczema
+the patient has been diagnosed with attention deficit hyperactivity disorder
+the patient is suffering from attention deficit hyperactivity disorder
+the patient has attention deficit hyperactivity disorder
+this looks like a case of attention deficit hyperactivity disorder
+the patient has been diagnosed with autistic spectrum disorder
+the patient is suffering from autistic spectrum disorder
+the patient has autistic spectrum disorder
+this looks like a case of autistic spectrum disorder
+the patient has been diagnosed with bacterial vaginosis
+the patient is suffering from bacterial vaginosis
+the patient has bacterial vaginosis
+this looks like a case of bacterial vaginosis
+the patient has been diagnosed with benign prostate enlargement
+the patient is suffering from benign prostate enlargement
+the patient has benign prostate enlargement
+this looks like a case of benign prostate enlargement
+the patient has been diagnosed with bile duct cancer
+the patient is suffering from bile duct cancer
+the patient has bile duct cancer
+this looks like a case of bile duct cancer
+the patient has been diagnosed with binge eating
+the patient is suffering from binge eating
+the patient has binge eating
+this looks like a case of binge eating
+the patient has been diagnosed with bipolar disorder
+the patient is suffering from bipolar disorder
+the patient has bipolar disorder
+this looks like a case of bipolar disorder
+the patient has been diagnosed with bladder cancer
+the patient is suffering from bladder cancer
+the patient has bladder cancer
+this looks like a case of bladder cancer
+the patient has been diagnosed with blood poisoning
+the patient is suffering from blood poisoning
+the patient has blood poisoning
+this looks like a case of blood poisoning
+the patient has been diagnosed with bone cancer
+the patient is suffering from bone cancer
+the patient has bone cancer
+this looks like a case of bone cancer
+the patient has been diagnosed with bowel cancer
+the patient is suffering from bowel cancer
+the patient has bowel cancer
+this looks like a case of bowel cancer
+the patient has been diagnosed with bowel incontinence
+the patient is suffering from bowel incontinence
+the patient has bowel incontinence
+this looks like a case of bowel incontinence
+the patient has been diagnosed with bowel polyps
+the patient is suffering from bowel polyps
+the patient has bowel polyps
+this looks like a case of bowel polyps
+the patient has been diagnosed with brain stem death
+the patient is suffering from brain stem death
+the patient has brain stem death
+this looks like a case of brain stem death
+the patient has been diagnosed with brain tumours
+the patient is suffering from brain tumours
+the patient has brain tumours
+this looks like a case of brain tumours
+the patient has been diagnosed with breast cancer
+the patient is suffering from breast cancer
+the patient has breast cancer
+this looks like a case of breast cancer
+the patient has been diagnosed with breast cancer
+the patient is suffering from breast cancer
+the patient has breast cancer
+this looks like a case of breast cancer
+the patient has been diagnosed with bronchiectasis
+the patient is suffering from bronchiectasis
+the patient has bronchiectasis
+this looks like a case of bronchiectasis
+the patient has been diagnosed with bronchitis
+the patient is suffering from bronchitis
+the patient has bronchitis
+this looks like a case of bronchitis
+the patient has been diagnosed with bulimia
+the patient is suffering from bulimia
+the patient has bulimia
+this looks like a case of bulimia
+the patient has been diagnosed with bunion
+the patient is suffering from bunion
+the patient has bunion
+this looks like a case of bunion
+the patient has been diagnosed with carcinoid syndrome and carcinoid tumours
+the patient is suffering from carcinoid syndrome and carcinoid tumours
+the patient has carcinoid syndrome and carcinoid tumours
+this looks like a case of carcinoid syndrome and carcinoid tumours
+the patient has been diagnosed with catarrh
+the patient is suffering from catarrh
+the patient has catarrh
+this looks like a case of catarrh
+the patient has been diagnosed with cellulitis
+the patient is suffering from cellulitis
+the patient has cellulitis
+this looks like a case of cellulitis
+the patient has been diagnosed with cervical cancer
+the patient is suffering from cervical cancer
+the patient has cervical cancer
+this looks like a case of cervical cancer
+the patient has been diagnosed with chest infection
+the patient is suffering from chest infection
+the patient has chest infection
+this looks like a case of chest infection
+the patient has been diagnosed with chest pain
+the patient is suffering from chest pain
+the patient has chest pain
+this looks like a case of chest pain
+the patient has been diagnosed with chickenpox
+the patient is suffering from chickenpox
+the patient has chickenpox
+this looks like a case of chickenpox
+the patient has been diagnosed with chilblains
+the patient is suffering from chilblains
+the patient has chilblains
+this looks like a case of chilblains
+the patient has been diagnosed with chronic fatigue syndrome
+the patient is suffering from chronic fatigue syndrome
+the patient has chronic fatigue syndrome
+this looks like a case of chronic fatigue syndrome
+the patient has been diagnosed with chronic kidney disease
+the patient is suffering from chronic kidney disease
+the patient has chronic kidney disease
+this looks like a case of chronic kidney disease
+the patient has been diagnosed with chronic lymphocytic leukaemia
+the patient is suffering from chronic lymphocytic leukaemia
+the patient has chronic lymphocytic leukaemia
+this looks like a case of chronic lymphocytic leukaemia
+the patient has been diagnosed with chronic myeloid leukaemia
+the patient is suffering from chronic myeloid leukaemia
+the patient has chronic myeloid leukaemia
+this looks like a case of chronic myeloid leukaemia
+the patient has been diagnosed with chronic obstructive pulmonary disease
+the patient is suffering from chronic obstructive pulmonary disease
+the patient has chronic obstructive pulmonary disease
+this looks like a case of chronic obstructive pulmonary disease
+the patient has been diagnosed with chronic pancreatitis
+the patient is suffering from chronic pancreatitis
+the patient has chronic pancreatitis
+this looks like a case of chronic pancreatitis
+the patient has been diagnosed with cirrhosis
+the patient is suffering from cirrhosis
+the patient has cirrhosis
+this looks like a case of cirrhosis
+the patient has been diagnosed with clostridium difficile
+the patient is suffering from clostridium difficile
+the patient has clostridium difficile
+this looks like a case of clostridium difficile
+the patient has been diagnosed with coeliac disease
+the patient is suffering from coeliac disease
+the patient has coeliac disease
+this looks like a case of coeliac disease
+the patient has been diagnosed with cold sore
+the patient is suffering from cold sore
+the patient has cold sore
+this looks like a case of cold sore
+the patient has been diagnosed with coma
+the patient is suffering from coma
+the patient has coma
+this looks like a case of coma
+the patient has been diagnosed with common cold
+the patient is suffering from common cold
+the patient has common cold
+this looks like a case of common cold
+the patient has been diagnosed with common heart conditions
+the patient is suffering from common heart conditions
+the patient has common heart conditions
+this looks like a case of common heart conditions
+the patient has been diagnosed with congenital heart disease
+the patient is suffering from congenital heart disease
+the patient has congenital heart disease
+this looks like a case of congenital heart disease
+the patient has been diagnosed with conjunctivitis
+the patient is suffering from conjunctivitis
+the patient has conjunctivitis
+this looks like a case of conjunctivitis
+the patient has been diagnosed with constipation
+the patient is suffering from constipation
+the patient has constipation
+this looks like a case of constipation
+the patient has been diagnosed with cough
+the patient is suffering from cough
+the patient has cough
+this looks like a case of cough
+the patient has been diagnosed with crohn's disease
+the patient is suffering from crohn's disease
+the patient has crohn's disease
+this looks like a case of crohn's disease
+the patient has been diagnosed with croup
+the patient is suffering from croup
+the patient has croup
+this looks like a case of croup
+the patient has been diagnosed with cystic fibrosis
+the patient is suffering from cystic fibrosis
+the patient has cystic fibrosis
+this looks like a case of cystic fibrosis
+the patient has been diagnosed with cystitis
+the patient is suffering from cystitis
+the patient has cystitis
+this looks like a case of cystitis
+the patient has been diagnosed with deafblindness
+the patient is suffering from deafblindness
+the patient has deafblindness
+this looks like a case of deafblindness
+the patient has been diagnosed with deep vein thrombosis
+the patient is suffering from deep vein thrombosis
+the patient has deep vein thrombosis
+this looks like a case of deep vein thrombosis
+the patient has been diagnosed with dehydration
+the patient is suffering from dehydration
+the patient has dehydration
+this looks like a case of dehydration
+the patient has been diagnosed with dementia
+the patient is suffering from dementia
+the patient has dementia
+this looks like a case of dementia
+the patient has been diagnosed with dementia with lewy bodies
+the patient is suffering from dementia with lewy bodies
+the patient has dementia with lewy bodies
+this looks like a case of dementia with lewy bodies
+the patient has been diagnosed with dental abscess
+the patient is suffering from dental abscess
+the patient has dental abscess
+this looks like a case of dental abscess
+the patient has been diagnosed with depression
+the patient is suffering from depression
+the patient has depression
+this looks like a case of depression
+the patient has been diagnosed with dermatitis herpetiformis
+the patient is suffering from dermatitis herpetiformis
+the patient has dermatitis herpetiformis
+this looks like a case of dermatitis herpetiformis
+the patient has been diagnosed with diabetes
+the patient is suffering from diabetes
+the patient has diabetes
+this looks like a case of diabetes
+the patient has been diagnosed with diarrhoea
+the patient is suffering from diarrhoea
+the patient has diarrhoea
+this looks like a case of diarrhoea
+the patient has been diagnosed with discoid eczema
+the patient is suffering from discoid eczema
+the patient has discoid eczema
+this looks like a case of discoid eczema
+the patient has been diagnosed with diverticular disease and diverticulitis
+the patient is suffering from diverticular disease and diverticulitis
+the patient has diverticular disease and diverticulitis
+this looks like a case of diverticular disease and diverticulitis
+the patient has been diagnosed with dizziness
+the patient is suffering from dizziness
+the patient has dizziness
+this looks like a case of dizziness
+the patient has been diagnosed with down's syndrome
+the patient is suffering from down's syndrome
+the patient has down's syndrome
+this looks like a case of down's syndrome
+the patient has been diagnosed with dry mouth
+the patient is suffering from dry mouth
+the patient has dry mouth
+this looks like a case of dry mouth
+the patient has been diagnosed with dysphagia
+the patient is suffering from dysphagia
+the patient has dysphagia
+this looks like a case of dysphagia
+the patient has been diagnosed with dystonia
+the patient is suffering from dystonia
+the patient has dystonia
+this looks like a case of dystonia
+the patient has been diagnosed with earache
+the patient is suffering from earache
+the patient has earache
+this looks like a case of earache
+the patient has been diagnosed with earwax build-up
+the patient is suffering from earwax build-up
+the patient has earwax build-up
+this looks like a case of earwax build-up
+the patient has been diagnosed with ebola virus disease
+the patient is suffering from ebola virus disease
+the patient has ebola virus disease
+this looks like a case of ebola virus disease
+the patient has been diagnosed with ectopic pregnancy
+the patient is suffering from ectopic pregnancy
+the patient has ectopic pregnancy
+this looks like a case of ectopic pregnancy
+the patient has been diagnosed with endometriosis
+the patient is suffering from endometriosis
+the patient has endometriosis
+this looks like a case of endometriosis
+the patient has been diagnosed with epilepsy
+the patient is suffering from epilepsy
+the patient has epilepsy
+this looks like a case of epilepsy
+the patient has been diagnosed with erectile dysfunction
+the patient is suffering from erectile dysfunction
+the patient has erectile dysfunction
+this looks like a case of erectile dysfunction
+the patient has been diagnosed with escherichia coli
+the patient is suffering from escherichia coli
+the patient has escherichia coli
+this looks like a case of escherichia coli
+the patient has been diagnosed with ewing sarcoma
+the patient is suffering from ewing sarcoma
+the patient has ewing sarcoma
+this looks like a case of ewing sarcoma
+the patient has been diagnosed with eye cancer
+the patient is suffering from eye cancer
+the patient has eye cancer
+this looks like a case of eye cancer
+the patient has been diagnosed with febrile seizures
+the patient is suffering from febrile seizures
+the patient has febrile seizures
+this looks like a case of febrile seizures
+the patient has been diagnosed with fever 
+the patient is suffering from fever 
+the patient has fever 
+this looks like a case of fever 
+the patient has been diagnosed with fibroids
+the patient is suffering from fibroids
+the patient has fibroids
+this looks like a case of fibroids
+the patient has been diagnosed with fibromyalgia
+the patient is suffering from fibromyalgia
+the patient has fibromyalgia
+this looks like a case of fibromyalgia
+the patient has been diagnosed with flatulence
+the patient is suffering from flatulence
+the patient has flatulence
+this looks like a case of flatulence
+the patient has been diagnosed with flu
+the patient is suffering from flu
+the patient has flu
+this looks like a case of flu
+the patient has been diagnosed with foetal alcohol syndrome
+the patient is suffering from foetal alcohol syndrome
+the patient has foetal alcohol syndrome
+this looks like a case of foetal alcohol syndrome
+the patient has been diagnosed with food poisoning
+the patient is suffering from food poisoning
+the patient has food poisoning
+this looks like a case of food poisoning
+the patient has been diagnosed with fungal nail infection
+the patient is suffering from fungal nail infection
+the patient has fungal nail infection
+this looks like a case of fungal nail infection
+the patient has been diagnosed with gallbladder cancer
+the patient is suffering from gallbladder cancer
+the patient has gallbladder cancer
+this looks like a case of gallbladder cancer
+the patient has been diagnosed with gallstones
+the patient is suffering from gallstones
+the patient has gallstones
+this looks like a case of gallstones
+the patient has been diagnosed with ganglion cyst
+the patient is suffering from ganglion cyst
+the patient has ganglion cyst
+this looks like a case of ganglion cyst
+the patient has been diagnosed with gastroenteritis
+the patient is suffering from gastroenteritis
+the patient has gastroenteritis
+this looks like a case of gastroenteritis
+the patient has been diagnosed with gastro-oesophageal reflux disease
+the patient is suffering from gastro-oesophageal reflux disease
+the patient has gastro-oesophageal reflux disease
+this looks like a case of gastro-oesophageal reflux disease
+the patient has been diagnosed with genital herpes
+the patient is suffering from genital herpes
+the patient has genital herpes
+this looks like a case of genital herpes
+the patient has been diagnosed with genital warts
+the patient is suffering from genital warts
+the patient has genital warts
+this looks like a case of genital warts
+the patient has been diagnosed with germ cell tumours
+the patient is suffering from germ cell tumours
+the patient has germ cell tumours
+this looks like a case of germ cell tumours
+the patient has been diagnosed with glandular fever
+the patient is suffering from glandular fever
+the patient has glandular fever
+this looks like a case of glandular fever
+the patient has been diagnosed with gout
+the patient is suffering from gout
+the patient has gout
+this looks like a case of gout
+the patient has been diagnosed with gum disease
+the patient is suffering from gum disease
+the patient has gum disease
+this looks like a case of gum disease
+the patient has been diagnosed with haemorrhoids
+the patient is suffering from haemorrhoids
+the patient has haemorrhoids
+this looks like a case of haemorrhoids
+the patient has been diagnosed with hairy cell leukaemia
+the patient is suffering from hairy cell leukaemia
+the patient has hairy cell leukaemia
+this looks like a case of hairy cell leukaemia
+the patient has been diagnosed with hand
+the patient is suffering from hand
+the patient has hand
+this looks like a case of hand
+the patient has been diagnosed with foot and mouth disease
+the patient is suffering from foot and mouth disease
+the patient has foot and mouth disease
+this looks like a case of foot and mouth disease
+the patient has been diagnosed with hay fever
+the patient is suffering from hay fever
+the patient has hay fever
+this looks like a case of hay fever
+the patient has been diagnosed with head and neck cancer
+the patient is suffering from head and neck cancer
+the patient has head and neck cancer
+this looks like a case of head and neck cancer
+the patient has been diagnosed with head lice and nits
+the patient is suffering from head lice and nits
+the patient has head lice and nits
+this looks like a case of head lice and nits
+the patient has been diagnosed with headaches
+the patient is suffering from headaches
+the patient has headaches
+this looks like a case of headaches
+the patient has been diagnosed with hearing loss
+the patient is suffering from hearing loss
+the patient has hearing loss
+this looks like a case of hearing loss
+the patient has been diagnosed with heart failure
+the patient is suffering from heart failure
+the patient has heart failure
+this looks like a case of heart failure
+the patient has been diagnosed with hepatitis a
+the patient is suffering from hepatitis a
+the patient has hepatitis a
+this looks like a case of hepatitis a
+the patient has been diagnosed with hepatitis b
+the patient is suffering from hepatitis b
+the patient has hepatitis b
+this looks like a case of hepatitis b
+the patient has been diagnosed with hepatitis c
+the patient is suffering from hepatitis c
+the patient has hepatitis c
+this looks like a case of hepatitis c
+the patient has been diagnosed with hiatus hernia
+the patient is suffering from hiatus hernia
+the patient has hiatus hernia
+this looks like a case of hiatus hernia
+the patient has been diagnosed with high cholesterol
+the patient is suffering from high cholesterol
+the patient has high cholesterol
+this looks like a case of high cholesterol
+the patient has been diagnosed with hiv
+the patient is suffering from hiv
+the patient has hiv
+this looks like a case of hiv
+the patient has been diagnosed with hodgkin lymphoma
+the patient is suffering from hodgkin lymphoma
+the patient has hodgkin lymphoma
+this looks like a case of hodgkin lymphoma
+the patient has been diagnosed with huntington's disease
+the patient is suffering from huntington's disease
+the patient has huntington's disease
+this looks like a case of huntington's disease
+the patient has been diagnosed with hyperglycaemia
+the patient is suffering from hyperglycaemia
+the patient has hyperglycaemia
+this looks like a case of hyperglycaemia
+the patient has been diagnosed with hyperhidrosis
+the patient is suffering from hyperhidrosis
+the patient has hyperhidrosis
+this looks like a case of hyperhidrosis
+the patient has been diagnosed with hypoglycaemia
+the patient is suffering from hypoglycaemia
+the patient has hypoglycaemia
+this looks like a case of hypoglycaemia
+the patient has been diagnosed with idiopathic pulmonary fibrosis
+the patient is suffering from idiopathic pulmonary fibrosis
+the patient has idiopathic pulmonary fibrosis
+this looks like a case of idiopathic pulmonary fibrosis
+the patient has been diagnosed with impetigo
+the patient is suffering from impetigo
+the patient has impetigo
+this looks like a case of impetigo
+the patient has been diagnosed with indigestion
+the patient is suffering from indigestion
+the patient has indigestion
+this looks like a case of indigestion
+the patient has been diagnosed with ingrown toenail
+the patient is suffering from ingrown toenail
+the patient has ingrown toenail
+this looks like a case of ingrown toenail
+the patient has been diagnosed with inherited heart conditions
+the patient is suffering from inherited heart conditions
+the patient has inherited heart conditions
+this looks like a case of inherited heart conditions
+the patient has been diagnosed with insomnia
+the patient is suffering from insomnia
+the patient has insomnia
+this looks like a case of insomnia
+the patient has been diagnosed with iron deficiency anaemia
+the patient is suffering from iron deficiency anaemia
+the patient has iron deficiency anaemia
+this looks like a case of iron deficiency anaemia
+the patient has been diagnosed with irritable bowel syndrome
+the patient is suffering from irritable bowel syndrome
+the patient has irritable bowel syndrome
+this looks like a case of irritable bowel syndrome
+the patient has been diagnosed with irritable hip
+the patient is suffering from irritable hip
+the patient has irritable hip
+this looks like a case of irritable hip
+the patient has been diagnosed with itching
+the patient is suffering from itching
+the patient has itching
+this looks like a case of itching
+the patient has been diagnosed with itchy bottom
+the patient is suffering from itchy bottom
+the patient has itchy bottom
+this looks like a case of itchy bottom
+the patient has been diagnosed with kaposi's sarcoma
+the patient is suffering from kaposi's sarcoma
+the patient has kaposi's sarcoma
+this looks like a case of kaposi's sarcoma
+the patient has been diagnosed with kidney cancer
+the patient is suffering from kidney cancer
+the patient has kidney cancer
+this looks like a case of kidney cancer
+the patient has been diagnosed with kidney infection
+the patient is suffering from kidney infection
+the patient has kidney infection
+this looks like a case of kidney infection
+the patient has been diagnosed with kidney stones
+the patient is suffering from kidney stones
+the patient has kidney stones
+this looks like a case of kidney stones
+the patient has been diagnosed with labyrinthitis
+the patient is suffering from labyrinthitis
+the patient has labyrinthitis
+this looks like a case of labyrinthitis
+the patient has been diagnosed with lactose intolerance
+the patient is suffering from lactose intolerance
+the patient has lactose intolerance
+this looks like a case of lactose intolerance
+the patient has been diagnosed with langerhans cell histiocytosis
+the patient is suffering from langerhans cell histiocytosis
+the patient has langerhans cell histiocytosis
+this looks like a case of langerhans cell histiocytosis
+the patient has been diagnosed with laryngeal
+the patient is suffering from laryngeal
+the patient has laryngeal
+this looks like a case of laryngeal
+the patient has been diagnosed with laryngitis
+the patient is suffering from laryngitis
+the patient has laryngitis
+this looks like a case of laryngitis
+the patient has been diagnosed with leg cramps
+the patient is suffering from leg cramps
+the patient has leg cramps
+this looks like a case of leg cramps
+the patient has been diagnosed with lichen planus
+the patient is suffering from lichen planus
+the patient has lichen planus
+this looks like a case of lichen planus
+the patient has been diagnosed with liver cancer
+the patient is suffering from liver cancer
+the patient has liver cancer
+this looks like a case of liver cancer
+the patient has been diagnosed with liver disease
+the patient is suffering from liver disease
+the patient has liver disease
+this looks like a case of liver disease
+the patient has been diagnosed with liver tumours
+the patient is suffering from liver tumours
+the patient has liver tumours
+this looks like a case of liver tumours
+the patient has been diagnosed with loss of libido
+the patient is suffering from loss of libido
+the patient has loss of libido
+this looks like a case of loss of libido
+the patient has been diagnosed with lung cancer
+the patient is suffering from lung cancer
+the patient has lung cancer
+this looks like a case of lung cancer
+the patient has been diagnosed with lupus
+the patient is suffering from lupus
+the patient has lupus
+this looks like a case of lupus
+the patient has been diagnosed with lyme disease
+the patient is suffering from lyme disease
+the patient has lyme disease
+this looks like a case of lyme disease
+the patient has been diagnosed with lymphoedema
+the patient is suffering from lymphoedema
+the patient has lymphoedema
+this looks like a case of lymphoedema
+the patient has been diagnosed with malaria
+the patient is suffering from malaria
+the patient has malaria
+this looks like a case of malaria
+the patient has been diagnosed with malignant brain tumour
+the patient is suffering from malignant brain tumour
+the patient has malignant brain tumour
+this looks like a case of malignant brain tumour
+the patient has been diagnosed with malnutrition
+the patient is suffering from malnutrition
+the patient has malnutrition
+this looks like a case of malnutrition
+the patient has been diagnosed with measles
+the patient is suffering from measles
+the patient has measles
+this looks like a case of measles
+the patient has been diagnosed with meningitis
+the patient is suffering from meningitis
+the patient has meningitis
+this looks like a case of meningitis
+the patient has been diagnosed with menopause
+the patient is suffering from menopause
+the patient has menopause
+this looks like a case of menopause
+the patient has been diagnosed with mesothelioma
+the patient is suffering from mesothelioma
+the patient has mesothelioma
+this looks like a case of mesothelioma
+the patient has been diagnosed with middle ear infection
+the patient is suffering from middle ear infection
+the patient has middle ear infection
+this looks like a case of middle ear infection
+the patient has been diagnosed with migraine
+the patient is suffering from migraine
+the patient has migraine
+this looks like a case of migraine
+the patient has been diagnosed with miscarriage
+the patient is suffering from miscarriage
+the patient has miscarriage
+this looks like a case of miscarriage
+the patient has been diagnosed with motor neurone disease
+the patient is suffering from motor neurone disease
+the patient has motor neurone disease
+this looks like a case of motor neurone disease
+the patient has been diagnosed with mouth cancer
+the patient is suffering from mouth cancer
+the patient has mouth cancer
+this looks like a case of mouth cancer
+the patient has been diagnosed with mouth ulcer
+the patient is suffering from mouth ulcer
+the patient has mouth ulcer
+this looks like a case of mouth ulcer
+the patient has been diagnosed with multiple myeloma
+the patient is suffering from multiple myeloma
+the patient has multiple myeloma
+this looks like a case of multiple myeloma
+the patient has been diagnosed with multiple sclerosis
+the patient is suffering from multiple sclerosis
+the patient has multiple sclerosis
+this looks like a case of multiple sclerosis
+the patient has been diagnosed with mumps
+the patient is suffering from mumps
+the patient has mumps
+this looks like a case of mumps
+the patient has been diagnosed with meniere's disease
+the patient is suffering from meniere's disease
+the patient has meniere's disease
+this looks like a case of meniere's disease
+the patient has been diagnosed with nasal and sinus cancer
+the patient is suffering from nasal and sinus cancer
+the patient has nasal and sinus cancer
+this looks like a case of nasal and sinus cancer
+the patient has been diagnosed with nasopharyngeal cancer
+the patient is suffering from nasopharyngeal cancer
+the patient has nasopharyngeal cancer
+this looks like a case of nasopharyngeal cancer
+the patient has been diagnosed with neuroblastoma
+the patient is suffering from neuroblastoma
+the patient has neuroblastoma
+this looks like a case of neuroblastoma
+the patient has been diagnosed with neuroendocrine tumours
+the patient is suffering from neuroendocrine tumours
+the patient has neuroendocrine tumours
+this looks like a case of neuroendocrine tumours
+the patient has been diagnosed with non-alcoholic fatty liver disease
+the patient is suffering from non-alcoholic fatty liver disease
+the patient has non-alcoholic fatty liver disease
+this looks like a case of non-alcoholic fatty liver disease
+the patient has been diagnosed with non-hodgkin lymphoma
+the patient is suffering from non-hodgkin lymphoma
+the patient has non-hodgkin lymphoma
+this looks like a case of non-hodgkin lymphoma
+the patient has been diagnosed with norovirus
+the patient is suffering from norovirus
+the patient has norovirus
+this looks like a case of norovirus
+the patient has been diagnosed with nosebleed
+the patient is suffering from nosebleed
+the patient has nosebleed
+this looks like a case of nosebleed
+the patient has been diagnosed with obesity
+the patient is suffering from obesity
+the patient has obesity
+this looks like a case of obesity
+the patient has been diagnosed with obsessive compulsive disorder
+the patient is suffering from obsessive compulsive disorder
+the patient has obsessive compulsive disorder
+this looks like a case of obsessive compulsive disorder
+the patient has been diagnosed with obstructive sleep apnoea
+the patient is suffering from obstructive sleep apnoea
+the patient has obstructive sleep apnoea
+this looks like a case of obstructive sleep apnoea
+the patient has been diagnosed with oesophageal cancer
+the patient is suffering from oesophageal cancer
+the patient has oesophageal cancer
+this looks like a case of oesophageal cancer
+the patient has been diagnosed with oral thrush in adults
+the patient is suffering from oral thrush in adults
+the patient has oral thrush in adults
+this looks like a case of oral thrush in adults
+the patient has been diagnosed with osteoarthritis
+the patient is suffering from osteoarthritis
+the patient has osteoarthritis
+this looks like a case of osteoarthritis
+the patient has been diagnosed with osteoporosis
+the patient is suffering from osteoporosis
+the patient has osteoporosis
+this looks like a case of osteoporosis
+the patient has been diagnosed with osteosarcoma
+the patient is suffering from osteosarcoma
+the patient has osteosarcoma
+this looks like a case of osteosarcoma
+the patient has been diagnosed with otitis externa
+the patient is suffering from otitis externa
+the patient has otitis externa
+this looks like a case of otitis externa
+the patient has been diagnosed with ovarian cancer
+the patient is suffering from ovarian cancer
+the patient has ovarian cancer
+this looks like a case of ovarian cancer
+the patient has been diagnosed with ovarian cancer
+the patient is suffering from ovarian cancer
+the patient has ovarian cancer
+this looks like a case of ovarian cancer
+the patient has been diagnosed with ovarian cyst
+the patient is suffering from ovarian cyst
+the patient has ovarian cyst
+this looks like a case of ovarian cyst
+the patient has been diagnosed with overactive thyroid
+the patient is suffering from overactive thyroid
+the patient has overactive thyroid
+this looks like a case of overactive thyroid
+the patient has been diagnosed with paget's disease
+the patient is suffering from paget's disease
+the patient has paget's disease
+this looks like a case of paget's disease
+the patient has been diagnosed with pancreatic cancer
+the patient is suffering from pancreatic cancer
+the patient has pancreatic cancer
+this looks like a case of pancreatic cancer
+the patient has been diagnosed with panic disorder
+the patient is suffering from panic disorder
+the patient has panic disorder
+this looks like a case of panic disorder
+the patient has been diagnosed with parkinson's disease
+the patient is suffering from parkinson's disease
+the patient has parkinson's disease
+this looks like a case of parkinson's disease
+the patient has been diagnosed with pelvic organ prolapse
+the patient is suffering from pelvic organ prolapse
+the patient has pelvic organ prolapse
+this looks like a case of pelvic organ prolapse
+the patient has been diagnosed with penile cancer
+the patient is suffering from penile cancer
+the patient has penile cancer
+this looks like a case of penile cancer
+the patient has been diagnosed with peripheral neuropathy
+the patient is suffering from peripheral neuropathy
+the patient has peripheral neuropathy
+this looks like a case of peripheral neuropathy
+the patient has been diagnosed with personality disorder
+the patient is suffering from personality disorder
+the patient has personality disorder
+this looks like a case of personality disorder
+the patient has been diagnosed with pleurisy
+the patient is suffering from pleurisy
+the patient has pleurisy
+this looks like a case of pleurisy
+the patient has been diagnosed with pneumonia
+the patient is suffering from pneumonia
+the patient has pneumonia
+this looks like a case of pneumonia
+the patient has been diagnosed with polymyalgia rheumatica
+the patient is suffering from polymyalgia rheumatica
+the patient has polymyalgia rheumatica
+this looks like a case of polymyalgia rheumatica
+the patient has been diagnosed with post-traumatic stress disorder
+the patient is suffering from post-traumatic stress disorder
+the patient has post-traumatic stress disorder
+this looks like a case of post-traumatic stress disorder
+the patient has been diagnosed with postnatal depression
+the patient is suffering from postnatal depression
+the patient has postnatal depression
+this looks like a case of postnatal depression
+the patient has been diagnosed with pregnancy 
+the patient is suffering from pregnancy 
+the patient has pregnancy 
+this looks like a case of pregnancy 
+the patient has been diagnosed with pressure ulcers
+the patient is suffering from pressure ulcers
+the patient has pressure ulcers
+this looks like a case of pressure ulcers
+the patient has been diagnosed with prostate cancer
+the patient is suffering from prostate cancer
+the patient has prostate cancer
+this looks like a case of prostate cancer
+the patient has been diagnosed with psoriasis
+the patient is suffering from psoriasis
+the patient has psoriasis
+this looks like a case of psoriasis
+the patient has been diagnosed with psoriatic arthritis
+the patient is suffering from psoriatic arthritis
+the patient has psoriatic arthritis
+this looks like a case of psoriatic arthritis
+the patient has been diagnosed with psychosis
+the patient is suffering from psychosis
+the patient has psychosis
+this looks like a case of psychosis
+the patient has been diagnosed with raynaud's phenomenon
+the patient is suffering from raynaud's phenomenon
+the patient has raynaud's phenomenon
+this looks like a case of raynaud's phenomenon
+the patient has been diagnosed with reactive arthritis
+the patient is suffering from reactive arthritis
+the patient has reactive arthritis
+this looks like a case of reactive arthritis
+the patient has been diagnosed with restless legs syndrome
+the patient is suffering from restless legs syndrome
+the patient has restless legs syndrome
+this looks like a case of restless legs syndrome
+the patient has been diagnosed with retinoblastoma
+the patient is suffering from retinoblastoma
+the patient has retinoblastoma
+this looks like a case of retinoblastoma
+the patient has been diagnosed with retinoblastoma
+the patient is suffering from retinoblastoma
+the patient has retinoblastoma
+this looks like a case of retinoblastoma
+the patient has been diagnosed with rhabdomyosarcoma
+the patient is suffering from rhabdomyosarcoma
+the patient has rhabdomyosarcoma
+this looks like a case of rhabdomyosarcoma
+the patient has been diagnosed with rheumatoid arthritis
+the patient is suffering from rheumatoid arthritis
+the patient has rheumatoid arthritis
+this looks like a case of rheumatoid arthritis
+the patient has been diagnosed with ringworm and other fungal infections
+the patient is suffering from ringworm and other fungal infections
+the patient has ringworm and other fungal infections
+this looks like a case of ringworm and other fungal infections
+the patient has been diagnosed with rosacea
+the patient is suffering from rosacea
+the patient has rosacea
+this looks like a case of rosacea
+the patient has been diagnosed with scabies
+the patient is suffering from scabies
+the patient has scabies
+this looks like a case of scabies
+the patient has been diagnosed with scarlet fever
+the patient is suffering from scarlet fever
+the patient has scarlet fever
+this looks like a case of scarlet fever
+the patient has been diagnosed with schizophrenia
+the patient is suffering from schizophrenia
+the patient has schizophrenia
+this looks like a case of schizophrenia
+the patient has been diagnosed with scoliosis
+the patient is suffering from scoliosis
+the patient has scoliosis
+this looks like a case of scoliosis
+the patient has been diagnosed with septic shock
+the patient is suffering from septic shock
+the patient has septic shock
+this looks like a case of septic shock
+the patient has been diagnosed with sexually transmitted infections
+the patient is suffering from sexually transmitted infections
+the patient has sexually transmitted infections
+this looks like a case of sexually transmitted infections
+the patient has been diagnosed with shingles
+the patient is suffering from shingles
+the patient has shingles
+this looks like a case of shingles
+the patient has been diagnosed with shortness of breath
+the patient is suffering from shortness of breath
+the patient has shortness of breath
+this looks like a case of shortness of breath
+the patient has been diagnosed with sickle cell disease
+the patient is suffering from sickle cell disease
+the patient has sickle cell disease
+this looks like a case of sickle cell disease
+the patient has been diagnosed with sinusitis
+the patient is suffering from sinusitis
+the patient has sinusitis
+this looks like a case of sinusitis
+the patient has been diagnosed with sjogren's syndrome
+the patient is suffering from sjogren's syndrome
+the patient has sjogren's syndrome
+this looks like a case of sjogren's syndrome
+the patient has been diagnosed with skin cancer
+the patient is suffering from skin cancer
+the patient has skin cancer
+this looks like a case of skin cancer
+the patient has been diagnosed with slapped cheek syndrome
+the patient is suffering from slapped cheek syndrome
+the patient has slapped cheek syndrome
+this looks like a case of slapped cheek syndrome
+the patient has been diagnosed with soft tissue sarcomas
+the patient is suffering from soft tissue sarcomas
+the patient has soft tissue sarcomas
+this looks like a case of soft tissue sarcomas
+the patient has been diagnosed with sore throat
+the patient is suffering from sore throat
+the patient has sore throat
+this looks like a case of sore throat
+the patient has been diagnosed with spleen problems and spleen removal
+the patient is suffering from spleen problems and spleen removal
+the patient has spleen problems and spleen removal
+this looks like a case of spleen problems and spleen removal
+the patient has been diagnosed with stillbirth
+the patient is suffering from stillbirth
+the patient has stillbirth
+this looks like a case of stillbirth
+the patient has been diagnosed with stomach ache and abdominal pain
+the patient is suffering from stomach ache and abdominal pain
+the patient has stomach ache and abdominal pain
+this looks like a case of stomach ache and abdominal pain
+the patient has been diagnosed with stomach cancer
+the patient is suffering from stomach cancer
+the patient has stomach cancer
+this looks like a case of stomach cancer
+the patient has been diagnosed with stomach ulcer
+the patient is suffering from stomach ulcer
+the patient has stomach ulcer
+this looks like a case of stomach ulcer
+the patient has been diagnosed with stress
+the patient is suffering from stress
+the patient has stress
+this looks like a case of stress
+the patient has been diagnosed with anxiety and low mood
+the patient is suffering from anxiety and low mood
+the patient has anxiety and low mood
+this looks like a case of anxiety and low mood
+the patient has been diagnosed with stroke
+the patient is suffering from stroke
+the patient has stroke
+this looks like a case of stroke
+the patient has been diagnosed with sudden infant death syndrome
+the patient is suffering from sudden infant death syndrome
+the patient has sudden infant death syndrome
+this looks like a case of sudden infant death syndrome
+the patient has been diagnosed with suicide
+the patient is suffering from suicide
+the patient has suicide
+this looks like a case of suicide
+the patient has been diagnosed with sunburn
+the patient is suffering from sunburn
+the patient has sunburn
+this looks like a case of sunburn
+the patient has been diagnosed with swollen glands
+the patient is suffering from swollen glands
+the patient has swollen glands
+this looks like a case of swollen glands
+the patient has been diagnosed with testicular cancer
+the patient is suffering from testicular cancer
+the patient has testicular cancer
+this looks like a case of testicular cancer
+the patient has been diagnosed with testicular cancer
+the patient is suffering from testicular cancer
+the patient has testicular cancer
+this looks like a case of testicular cancer
+the patient has been diagnosed with testicular lumps and swellings
+the patient is suffering from testicular lumps and swellings
+the patient has testicular lumps and swellings
+this looks like a case of testicular lumps and swellings
+the patient has been diagnosed with thirst
+the patient is suffering from thirst
+the patient has thirst
+this looks like a case of thirst
+the patient has been diagnosed with threadworms
+the patient is suffering from threadworms
+the patient has threadworms
+this looks like a case of threadworms
+the patient has been diagnosed with thrush in men
+the patient is suffering from thrush in men
+the patient has thrush in men
+this looks like a case of thrush in men
+the patient has been diagnosed with thyroid cancer
+the patient is suffering from thyroid cancer
+the patient has thyroid cancer
+this looks like a case of thyroid cancer
+the patient has been diagnosed with thyroid cancer
+the patient is suffering from thyroid cancer
+the patient has thyroid cancer
+this looks like a case of thyroid cancer
+the patient has been diagnosed with tinnitus
+the patient is suffering from tinnitus
+the patient has tinnitus
+this looks like a case of tinnitus
+the patient has been diagnosed with tonsillitis
+the patient is suffering from tonsillitis
+the patient has tonsillitis
+this looks like a case of tonsillitis
+the patient has been diagnosed with tooth decay
+the patient is suffering from tooth decay
+the patient has tooth decay
+this looks like a case of tooth decay
+the patient has been diagnosed with toothache
+the patient is suffering from toothache
+the patient has toothache
+this looks like a case of toothache
+the patient has been diagnosed with transient ischaemic attack
+the patient is suffering from transient ischaemic attack
+the patient has transient ischaemic attack
+this looks like a case of transient ischaemic attack
+the patient has been diagnosed with trigeminal neuralgia
+the patient is suffering from trigeminal neuralgia
+the patient has trigeminal neuralgia
+this looks like a case of trigeminal neuralgia
+the patient has been diagnosed with tuberculosis
+the patient is suffering from tuberculosis
+the patient has tuberculosis
+this looks like a case of tuberculosis
+the patient has been diagnosed with type 1 diabetes
+the patient is suffering from type 1 diabetes
+the patient has type 1 diabetes
+this looks like a case of type 1 diabetes
+the patient has been diagnosed with type 2 diabetes
+the patient is suffering from type 2 diabetes
+the patient has type 2 diabetes
+this looks like a case of type 2 diabetes
+the patient has been diagnosed with ulcerative colitis
+the patient is suffering from ulcerative colitis
+the patient has ulcerative colitis
+this looks like a case of ulcerative colitis
+the patient has been diagnosed with underactive thyroid
+the patient is suffering from underactive thyroid
+the patient has underactive thyroid
+this looks like a case of underactive thyroid
+the patient has been diagnosed with urinary incontinence
+the patient is suffering from urinary incontinence
+the patient has urinary incontinence
+this looks like a case of urinary incontinence
+the patient has been diagnosed with urinary tract infection
+the patient is suffering from urinary tract infection
+the patient has urinary tract infection
+this looks like a case of urinary tract infection
+the patient has been diagnosed with urinary tract infection
+the patient is suffering from urinary tract infection
+the patient has urinary tract infection
+this looks like a case of urinary tract infection
+the patient has been diagnosed with urticaria
+the patient is suffering from urticaria
+the patient has urticaria
+this looks like a case of urticaria
+the patient has been diagnosed with vaginal cancer
+the patient is suffering from vaginal cancer
+the patient has vaginal cancer
+this looks like a case of vaginal cancer
+the patient has been diagnosed with vaginal thrush
+the patient is suffering from vaginal thrush
+the patient has vaginal thrush
+this looks like a case of vaginal thrush
+the patient has been diagnosed with varicose eczema
+the patient is suffering from varicose eczema
+the patient has varicose eczema
+this looks like a case of varicose eczema
+the patient has been diagnosed with varicose veins
+the patient is suffering from varicose veins
+the patient has varicose veins
+this looks like a case of varicose veins
+the patient has been diagnosed with venous leg ulcer
+the patient is suffering from venous leg ulcer
+the patient has venous leg ulcer
+this looks like a case of venous leg ulcer
+the patient has been diagnosed with vertigo
+the patient is suffering from vertigo
+the patient has vertigo
+this looks like a case of vertigo
+the patient has been diagnosed with vomiting in adults
+the patient is suffering from vomiting in adults
+the patient has vomiting in adults
+this looks like a case of vomiting in adults
+the patient has been diagnosed with vulval cancer
+the patient is suffering from vulval cancer
+the patient has vulval cancer
+this looks like a case of vulval cancer
+the patient has been diagnosed with warts and verrucas
+the patient is suffering from warts and verrucas
+the patient has warts and verrucas
+this looks like a case of warts and verrucas
+the patient has been diagnosed with whooping cough
+the patient is suffering from whooping cough
+the patient has whooping cough
+this looks like a case of whooping cough
+the patient has been diagnosed with wilms’ tumour
+the patient is suffering from wilms’ tumour
+the patient has wilms’ tumour
+this looks like a case of wilms’ tumour
+the patient has been diagnosed with yellow fever
+the patient is suffering from yellow fever
+the patient has yellow fever
+this looks like a case of yellow fever
+the patient has been diagnosed with adhd
+the patient is suffering from adhd
+the patient has adhd
+this looks like a case of adhd
+the patient has been diagnosed with folate deficiency anaemia
+the patient is suffering from folate deficiency anaemia
+the patient has folate deficiency anaemia
+this looks like a case of folate deficiency anaemia
+the patient has been diagnosed with vitamin b12 deficiency
+the patient is suffering from vitamin b12 deficiency
+the patient has vitamin b12 deficiency
+this looks like a case of vitamin b12 deficiency
+the patient has been diagnosed with fever
+the patient is suffering from fever
+the patient has fever
+this looks like a case of fever
