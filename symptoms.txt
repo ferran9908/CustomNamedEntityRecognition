@@ -1,0 +1,260 @@
+the patient has the following symptoms. cold
+the patient arrived with cold
+the patient arrived with cold as symptoms
+the patient is exhibiting cold which are indicative of cancer
+exhibitance of cold is observed which suggests yellow fever
+the patient has the following symptoms. high temperature
+the patient arrived with high temperature
+the patient arrived with high temperature as symptoms
+the patient is exhibiting high temperature which are indicative of cancer
+exhibitance of high temperature is observed which suggests yellow fever
+the patient has the following symptoms. vomiting
+the patient arrived with vomiting
+the patient arrived with vomiting as symptoms
+the patient is exhibiting vomiting which are indicative of cancer
+exhibitance of vomiting is observed which suggests yellow fever
+the patient has the following symptoms. dizziness
+the patient arrived with dizziness
+the patient arrived with dizziness as symptoms
+the patient is exhibiting dizziness which are indicative of cancer
+exhibitance of dizziness is observed which suggests yellow fever
+the patient has the following symptoms. bleeding
+the patient arrived with bleeding
+the patient arrived with bleeding as symptoms
+the patient is exhibiting bleeding which are indicative of cancer
+exhibitance of bleeding is observed which suggests yellow fever
+the patient has the following symptoms. coughing
+the patient arrived with coughing
+the patient arrived with coughing as symptoms
+the patient is exhibiting coughing which are indicative of cancer
+exhibitance of coughing is observed which suggests yellow fever
+the patient has the following symptoms. coughing blood
+the patient arrived with coughing blood
+the patient arrived with coughing blood as symptoms
+the patient is exhibiting coughing blood which are indicative of cancer
+exhibitance of coughing blood is observed which suggests yellow fever
+the patient has the following symptoms. nosebleed
+the patient arrived with nosebleed
+the patient arrived with nosebleed as symptoms
+the patient is exhibiting nosebleed which are indicative of cancer
+exhibitance of nosebleed is observed which suggests yellow fever
+the patient has the following symptoms. earbleed
+the patient arrived with earbleed
+the patient arrived with earbleed as symptoms
+the patient is exhibiting earbleed which are indicative of cancer
+exhibitance of earbleed is observed which suggests yellow fever
+the patient has the following symptoms. headache
+the patient arrived with headache
+the patient arrived with headache as symptoms
+the patient is exhibiting headache which are indicative of cancer
+exhibitance of headache is observed which suggests yellow fever
+the patient has the following symptoms. nausea
+the patient arrived with nausea
+the patient arrived with nausea as symptoms
+the patient is exhibiting nausea which are indicative of cancer
+exhibitance of nausea is observed which suggests yellow fever
+the patient has the following symptoms. blood vomit
+the patient arrived with blood vomit
+the patient arrived with blood vomit as symptoms
+the patient is exhibiting blood vomit which are indicative of cancer
+exhibitance of blood vomit is observed which suggests yellow fever
+the patient has the following symptoms. body pain
+the patient arrived with body pain
+the patient arrived with body pain as symptoms
+the patient is exhibiting body pain which are indicative of cancer
+exhibitance of body pain is observed which suggests yellow fever
+the patient has the following symptoms. muscle cramps
+the patient arrived with muscle cramps
+the patient arrived with muscle cramps as symptoms
+the patient is exhibiting muscle cramps which are indicative of cancer
+exhibitance of muscle cramps is observed which suggests yellow fever
+the patient has the following symptoms. hairfall
+the patient arrived with hairfall
+the patient arrived with hairfall as symptoms
+the patient is exhibiting hairfall which are indicative of cancer
+exhibitance of hairfall is observed which suggests yellow fever
+the patient has the following symptoms. rashes
+the patient arrived with rashes
+the patient arrived with rashes as symptoms
+the patient is exhibiting rashes which are indicative of cancer
+exhibitance of rashes is observed which suggests yellow fever
+the patient has the following symptoms. redness
+the patient arrived with redness
+the patient arrived with redness as symptoms
+the patient is exhibiting redness which are indicative of cancer
+exhibitance of redness is observed which suggests yellow fever
+the patient has the following symptoms. loss of vision
+the patient arrived with loss of vision
+the patient arrived with loss of vision as symptoms
+the patient is exhibiting loss of vision which are indicative of cancer
+exhibitance of loss of vision is observed which suggests yellow fever
+the patient has the following symptoms. heavy breathing
+the patient arrived with heavy breathing
+the patient arrived with heavy breathing as symptoms
+the patient is exhibiting heavy breathing which are indicative of cancer
+exhibitance of heavy breathing is observed which suggests yellow fever
+the patient has the following symptoms. difficulty in breathing
+the patient arrived with difficulty in breathing
+the patient arrived with difficulty in breathing as symptoms
+the patient is exhibiting difficulty in breathing which are indicative of cancer
+exhibitance of difficulty in breathing is observed which suggests yellow fever
+the patient has the following symptoms. constipation
+the patient arrived with constipation
+the patient arrived with constipation as symptoms
+the patient is exhibiting constipation which are indicative of cancer
+exhibitance of constipation is observed which suggests yellow fever
+the patient has the following symptoms. loose motion
+the patient arrived with loose motion
+the patient arrived with loose motion as symptoms
+the patient is exhibiting loose motion which are indicative of cancer
+exhibitance of loose motion is observed which suggests yellow fever
+the patient has the following symptoms. dysentry
+the patient arrived with dysentry
+the patient arrived with dysentry as symptoms
+the patient is exhibiting dysentry which are indicative of cancer
+exhibitance of dysentry is observed which suggests yellow fever
+the patient has the following symptoms. swelling
+the patient arrived with swelling
+the patient arrived with swelling as symptoms
+the patient is exhibiting swelling which are indicative of cancer
+exhibitance of swelling is observed which suggests yellow fever
+the patient has the following symptoms. discharge
+the patient arrived with discharge
+the patient arrived with discharge as symptoms
+the patient is exhibiting discharge which are indicative of cancer
+exhibitance of discharge is observed which suggests yellow fever
+the patient has the following symptoms. boils
+the patient arrived with boils
+the patient arrived with boils as symptoms
+the patient is exhibiting boils which are indicative of cancer
+exhibitance of boils is observed which suggests yellow fever
+the patient has the following symptoms. pus
+the patient arrived with pus
+the patient arrived with pus as symptoms
+the patient is exhibiting pus which are indicative of cancer
+exhibitance of pus is observed which suggests yellow fever
+the patient has the following symptoms. flaking of skin
+the patient arrived with flaking of skin
+the patient arrived with flaking of skin as symptoms
+the patient is exhibiting flaking of skin which are indicative of cancer
+exhibitance of flaking of skin is observed which suggests yellow fever
+the patient has the following symptoms. dryness in throat
+the patient arrived with dryness in throat
+the patient arrived with dryness in throat as symptoms
+the patient is exhibiting dryness in throat which are indicative of cancer
+exhibitance of dryness in throat is observed which suggests yellow fever
+the patient has the following symptoms. sore throat
+the patient arrived with sore throat
+the patient arrived with sore throat as symptoms
+the patient is exhibiting sore throat which are indicative of cancer
+exhibitance of sore throat is observed which suggests yellow fever
+the patient has the following symptoms. difficulty swallowing
+the patient arrived with difficulty swallowing
+the patient arrived with difficulty swallowing as symptoms
+the patient is exhibiting difficulty swallowing which are indicative of cancer
+exhibitance of difficulty swallowing is observed which suggests yellow fever
+the patient has the following symptoms. hives
+the patient arrived with hives
+the patient arrived with hives as symptoms
+the patient is exhibiting hives which are indicative of cancer
+exhibitance of hives is observed which suggests yellow fever
+the patient has the following symptoms. toothache
+the patient arrived with toothache
+the patient arrived with toothache as symptoms
+the patient is exhibiting toothache which are indicative of cancer
+exhibitance of toothache is observed which suggests yellow fever
+the patient has the following symptoms. gum pain
+the patient arrived with gum pain
+the patient arrived with gum pain as symptoms
+the patient is exhibiting gum pain which are indicative of cancer
+exhibitance of gum pain is observed which suggests yellow fever
+the patient has the following symptoms. swelling of tongue
+the patient arrived with swelling of tongue
+the patient arrived with swelling of tongue as symptoms
+the patient is exhibiting swelling of tongue which are indicative of cancer
+exhibitance of swelling of tongue is observed which suggests yellow fever
+the patient has the following symptoms. redness of the eye
+the patient arrived with redness of the eye
+the patient arrived with redness of the eye as symptoms
+the patient is exhibiting redness of the eye which are indicative of cancer
+exhibitance of redness of the eye is observed which suggests yellow fever
+the patient has the following symptoms. itching of eye
+the patient arrived with itching of eye
+the patient arrived with itching of eye as symptoms
+the patient is exhibiting itching of eye which are indicative of cancer
+exhibitance of itching of eye is observed which suggests yellow fever
+the patient has the following symptoms. itching
+the patient arrived with itching
+the patient arrived with itching as symptoms
+the patient is exhibiting itching which are indicative of cancer
+exhibitance of itching is observed which suggests yellow fever
+the patient has the following symptoms. shivering
+the patient arrived with shivering
+the patient arrived with shivering as symptoms
+the patient is exhibiting shivering which are indicative of cancer
+exhibitance of shivering is observed which suggests yellow fever
+the patient has the following symptoms. backache
+the patient arrived with backache
+the patient arrived with backache as symptoms
+the patient is exhibiting backache which are indicative of cancer
+exhibitance of backache is observed which suggests yellow fever
+the patient has the following symptoms. shaking
+the patient arrived with shaking
+the patient arrived with shaking as symptoms
+the patient is exhibiting shaking which are indicative of cancer
+exhibitance of shaking is observed which suggests yellow fever
+the patient has the following symptoms. pins and needles
+the patient arrived with pins and needles
+the patient arrived with pins and needles as symptoms
+the patient is exhibiting pins and needles which are indicative of cancer
+exhibitance of pins and needles is observed which suggests yellow fever
+the patient has the following symptoms. loss of hearing
+the patient arrived with loss of hearing
+the patient arrived with loss of hearing as symptoms
+the patient is exhibiting loss of hearing which are indicative of cancer
+exhibitance of loss of hearing is observed which suggests yellow fever
+the patient has the following symptoms. tinnitus
+the patient arrived with tinnitus
+the patient arrived with tinnitus as symptoms
+the patient is exhibiting tinnitus which are indicative of cancer
+exhibitance of tinnitus is observed which suggests yellow fever
+the patient has the following symptoms. hearing loss
+the patient arrived with hearing loss
+the patient arrived with hearing loss as symptoms
+the patient is exhibiting hearing loss which are indicative of cancer
+exhibitance of hearing loss is observed which suggests yellow fever
+the patient has the following symptoms. slurred speech
+the patient arrived with slurred speech
+the patient arrived with slurred speech as symptoms
+the patient is exhibiting slurred speech which are indicative of cancer
+exhibitance of slurred speech is observed which suggests yellow fever
+the patient has the following symptoms. fits
+the patient arrived with fits
+the patient arrived with fits as symptoms
+the patient is exhibiting fits which are indicative of cancer
+exhibitance of fits is observed which suggests yellow fever
+the patient has the following symptoms. frequent urination
+the patient arrived with frequent urination
+the patient arrived with frequent urination as symptoms
+the patient is exhibiting frequent urination which are indicative of cancer
+exhibitance of frequent urination is observed which suggests yellow fever
+the patient has the following symptoms. drowsiness
+the patient arrived with drowsiness
+the patient arrived with drowsiness as symptoms
+the patient is exhibiting drowsiness which are indicative of cancer
+exhibitance of drowsiness is observed which suggests yellow fever
+the patient has the following symptoms. fidgeting
+the patient arrived with fidgeting
+the patient arrived with fidgeting as symptoms
+the patient is exhibiting fidgeting which are indicative of cancer
+exhibitance of fidgeting is observed which suggests yellow fever
+the patient has the following symptoms. muscle stiffness
+the patient arrived with muscle stiffness
+the patient arrived with muscle stiffness as symptoms
+the patient is exhibiting muscle stiffness which are indicative of cancer
+exhibitance of muscle stiffness is observed which suggests yellow fever
+the patient has the following symptoms. cramp
+the patient arrived with cramp
+the patient arrived with cramp as symptoms
+the patient is exhibiting cramp which are indicative of cancer
+exhibitance of cramp is observed which suggests yellow fever

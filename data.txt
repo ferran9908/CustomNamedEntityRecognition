@@ -1,0 +1,2424 @@
+the patient has been diagnosed with abdominal aortic aneurysm
+the patient is suffering from abdominal aortic aneurysm
+the patient has abdominal aortic aneurysm
+this looks like a case of abdominal aortic aneurysm
+the patient has been diagnosed with acne
+the patient is suffering from acne
+the patient has acne
+this looks like a case of acne
+the patient has been diagnosed with acute cholecystitis
+the patient is suffering from acute cholecystitis
+the patient has acute cholecystitis
+this looks like a case of acute cholecystitis
+the patient has been diagnosed with acute lymphoblastic leukaemia
+the patient is suffering from acute lymphoblastic leukaemia
+the patient has acute lymphoblastic leukaemia
+this looks like a case of acute lymphoblastic leukaemia
+the patient has been diagnosed with acute myeloid leukaemia
+the patient is suffering from acute myeloid leukaemia
+the patient has acute myeloid leukaemia
+this looks like a case of acute myeloid leukaemia
+the patient has been diagnosed with acute pancreatitis
+the patient is suffering from acute pancreatitis
+the patient has acute pancreatitis
+this looks like a case of acute pancreatitis
+the patient has been diagnosed with addison's disease
+the patient is suffering from addison's disease
+the patient has addison's disease
+this looks like a case of addison's disease
+the patient has been diagnosed with alcohol-related liver disease
+the patient is suffering from alcohol-related liver disease
+the patient has alcohol-related liver disease
+this looks like a case of alcohol-related liver disease
+the patient has been diagnosed with allergic rhinitis
+the patient is suffering from allergic rhinitis
+the patient has allergic rhinitis
+this looks like a case of allergic rhinitis
+the patient has been diagnosed with allergies
+the patient is suffering from allergies
+the patient has allergies
+this looks like a case of allergies
+the patient has been diagnosed with alzheimer's disease
+the patient is suffering from alzheimer's disease
+the patient has alzheimer's disease
+this looks like a case of alzheimer's disease
+the patient has been diagnosed with anal cancer
+the patient is suffering from anal cancer
+the patient has anal cancer
+this looks like a case of anal cancer
+the patient has been diagnosed with anaphylaxis
+the patient is suffering from anaphylaxis
+the patient has anaphylaxis
+this looks like a case of anaphylaxis
+the patient has been diagnosed with angioedema
+the patient is suffering from angioedema
+the patient has angioedema
+this looks like a case of angioedema
+the patient has been diagnosed with ankylosing spondylitis
+the patient is suffering from ankylosing spondylitis
+the patient has ankylosing spondylitis
+this looks like a case of ankylosing spondylitis
+the patient has been diagnosed with anorexia nervosa
+the patient is suffering from anorexia nervosa
+the patient has anorexia nervosa
+this looks like a case of anorexia nervosa
+the patient has been diagnosed with anxiety
+the patient is suffering from anxiety
+the patient has anxiety
+this looks like a case of anxiety
+the patient has been diagnosed with anxiety disorders 
+the patient is suffering from anxiety disorders 
+the patient has anxiety disorders 
+this looks like a case of anxiety disorders 
+the patient has been diagnosed with appendicitis
+the patient is suffering from appendicitis
+the patient has appendicitis
+this looks like a case of appendicitis
+the patient has been diagnosed with arthritis
+the patient is suffering from arthritis
+the patient has arthritis
+this looks like a case of arthritis
+the patient has been diagnosed with asbestosis
+the patient is suffering from asbestosis
+the patient has asbestosis
+this looks like a case of asbestosis
+the patient has been diagnosed with asthma
+the patient is suffering from asthma
+the patient has asthma
+this looks like a case of asthma
+the patient has been diagnosed with atopic eczema
+the patient is suffering from atopic eczema
+the patient has atopic eczema
+this looks like a case of atopic eczema
+the patient has been diagnosed with attention deficit hyperactivity disorder
+the patient is suffering from attention deficit hyperactivity disorder
+the patient has attention deficit hyperactivity disorder
+this looks like a case of attention deficit hyperactivity disorder
+the patient has been diagnosed with autistic spectrum disorder
+the patient is suffering from autistic spectrum disorder
+the patient has autistic spectrum disorder
+this looks like a case of autistic spectrum disorder
+the patient has been diagnosed with bacterial vaginosis
+the patient is suffering from bacterial vaginosis
+the patient has bacterial vaginosis
+this looks like a case of bacterial vaginosis
+the patient has been diagnosed with benign prostate enlargement
+the patient is suffering from benign prostate enlargement
+the patient has benign prostate enlargement
+this looks like a case of benign prostate enlargement
+the patient has been diagnosed with bile duct cancer
+the patient is suffering from bile duct cancer
+the patient has bile duct cancer
+this looks like a case of bile duct cancer
+the patient has been diagnosed with binge eating
+the patient is suffering from binge eating
+the patient has binge eating
+this looks like a case of binge eating
+the patient has been diagnosed with bipolar disorder
+the patient is suffering from bipolar disorder
+the patient has bipolar disorder
+this looks like a case of bipolar disorder
+the patient has been diagnosed with bladder cancer
+the patient is suffering from bladder cancer
+the patient has bladder cancer
+this looks like a case of bladder cancer
+the patient has been diagnosed with blood poisoning
+the patient is suffering from blood poisoning
+the patient has blood poisoning
+this looks like a case of blood poisoning
+the patient has been diagnosed with bone cancer
+the patient is suffering from bone cancer
+the patient has bone cancer
+this looks like a case of bone cancer
+the patient has been diagnosed with bowel cancer
+the patient is suffering from bowel cancer
+the patient has bowel cancer
+this looks like a case of bowel cancer
+the patient has been diagnosed with bowel incontinence
+the patient is suffering from bowel incontinence
+the patient has bowel incontinence
+this looks like a case of bowel incontinence
+the patient has been diagnosed with bowel polyps
+the patient is suffering from bowel polyps
+the patient has bowel polyps
+this looks like a case of bowel polyps
+the patient has been diagnosed with brain stem death
+the patient is suffering from brain stem death
+the patient has brain stem death
+this looks like a case of brain stem death
+the patient has been diagnosed with brain tumours
+the patient is suffering from brain tumours
+the patient has brain tumours
+this looks like a case of brain tumours
+the patient has been diagnosed with breast cancer
+the patient is suffering from breast cancer
+the patient has breast cancer
+this looks like a case of breast cancer
+the patient has been diagnosed with breast cancer
+the patient is suffering from breast cancer
+the patient has breast cancer
+this looks like a case of breast cancer
+the patient has been diagnosed with bronchiectasis
+the patient is suffering from bronchiectasis
+the patient has bronchiectasis
+this looks like a case of bronchiectasis
+the patient has been diagnosed with bronchitis
+the patient is suffering from bronchitis
+the patient has bronchitis
+this looks like a case of bronchitis
+the patient has been diagnosed with bulimia
+the patient is suffering from bulimia
+the patient has bulimia
+this looks like a case of bulimia
+the patient has been diagnosed with bunion
+the patient is suffering from bunion
+the patient has bunion
+this looks like a case of bunion
+the patient has been diagnosed with carcinoid syndrome and carcinoid tumours
+the patient is suffering from carcinoid syndrome and carcinoid tumours
+the patient has carcinoid syndrome and carcinoid tumours
+this looks like a case of carcinoid syndrome and carcinoid tumours
+the patient has been diagnosed with catarrh
+the patient is suffering from catarrh
+the patient has catarrh
+this looks like a case of catarrh
+the patient has been diagnosed with cellulitis
+the patient is suffering from cellulitis
+the patient has cellulitis
+this looks like a case of cellulitis
+the patient has been diagnosed with cervical cancer
+the patient is suffering from cervical cancer
+the patient has cervical cancer
+this looks like a case of cervical cancer
+the patient has been diagnosed with chest infection
+the patient is suffering from chest infection
+the patient has chest infection
+this looks like a case of chest infection
+the patient has been diagnosed with chest pain
+the patient is suffering from chest pain
+the patient has chest pain
+this looks like a case of chest pain
+the patient has been diagnosed with chickenpox
+the patient is suffering from chickenpox
+the patient has chickenpox
+this looks like a case of chickenpox
+the patient has been diagnosed with chilblains
+the patient is suffering from chilblains
+the patient has chilblains
+this looks like a case of chilblains
+the patient has been diagnosed with chronic fatigue syndrome
+the patient is suffering from chronic fatigue syndrome
+the patient has chronic fatigue syndrome
+this looks like a case of chronic fatigue syndrome
+the patient has been diagnosed with chronic kidney disease
+the patient is suffering from chronic kidney disease
+the patient has chronic kidney disease
+this looks like a case of chronic kidney disease
+the patient has been diagnosed with chronic lymphocytic leukaemia
+the patient is suffering from chronic lymphocytic leukaemia
+the patient has chronic lymphocytic leukaemia
+this looks like a case of chronic lymphocytic leukaemia
+the patient has been diagnosed with chronic myeloid leukaemia
+the patient is suffering from chronic myeloid leukaemia
+the patient has chronic myeloid leukaemia
+this looks like a case of chronic myeloid leukaemia
+the patient has been diagnosed with chronic obstructive pulmonary disease
+the patient is suffering from chronic obstructive pulmonary disease
+the patient has chronic obstructive pulmonary disease
+this looks like a case of chronic obstructive pulmonary disease
+the patient has been diagnosed with chronic pancreatitis
+the patient is suffering from chronic pancreatitis
+the patient has chronic pancreatitis
+this looks like a case of chronic pancreatitis
+the patient has been diagnosed with cirrhosis
+the patient is suffering from cirrhosis
+the patient has cirrhosis
+this looks like a case of cirrhosis
+the patient has been diagnosed with clostridium difficile
+the patient is suffering from clostridium difficile
+the patient has clostridium difficile
+this looks like a case of clostridium difficile
+the patient has been diagnosed with coeliac disease
+the patient is suffering from coeliac disease
+the patient has coeliac disease
+this looks like a case of coeliac disease
+the patient has been diagnosed with cold sore
+the patient is suffering from cold sore
+the patient has cold sore
+this looks like a case of cold sore
+the patient has been diagnosed with coma
+the patient is suffering from coma
+the patient has coma
+this looks like a case of coma
+the patient has been diagnosed with common cold
+the patient is suffering from common cold
+the patient has common cold
+this looks like a case of common cold
+the patient has been diagnosed with common heart conditions
+the patient is suffering from common heart conditions
+the patient has common heart conditions
+this looks like a case of common heart conditions
+the patient has been diagnosed with congenital heart disease
+the patient is suffering from congenital heart disease
+the patient has congenital heart disease
+this looks like a case of congenital heart disease
+the patient has been diagnosed with conjunctivitis
+the patient is suffering from conjunctivitis
+the patient has conjunctivitis
+this looks like a case of conjunctivitis
+the patient has been diagnosed with constipation
+the patient is suffering from constipation
+the patient has constipation
+this looks like a case of constipation
+the patient has been diagnosed with cough
+the patient is suffering from cough
+the patient has cough
+this looks like a case of cough
+the patient has been diagnosed with crohn's disease
+the patient is suffering from crohn's disease
+the patient has crohn's disease
+this looks like a case of crohn's disease
+the patient has been diagnosed with croup
+the patient is suffering from croup
+the patient has croup
+this looks like a case of croup
+the patient has been diagnosed with cystic fibrosis
+the patient is suffering from cystic fibrosis
+the patient has cystic fibrosis
+this looks like a case of cystic fibrosis
+the patient has been diagnosed with cystitis
+the patient is suffering from cystitis
+the patient has cystitis
+this looks like a case of cystitis
+the patient has been diagnosed with deafblindness
+the patient is suffering from deafblindness
+the patient has deafblindness
+this looks like a case of deafblindness
+the patient has been diagnosed with deep vein thrombosis
+the patient is suffering from deep vein thrombosis
+the patient has deep vein thrombosis
+this looks like a case of deep vein thrombosis
+the patient has been diagnosed with dehydration
+the patient is suffering from dehydration
+the patient has dehydration
+this looks like a case of dehydration
+the patient has been diagnosed with dementia
+the patient is suffering from dementia
+the patient has dementia
+this looks like a case of dementia
+the patient has been diagnosed with dementia with lewy bodies
+the patient is suffering from dementia with lewy bodies
+the patient has dementia with lewy bodies
+this looks like a case of dementia with lewy bodies
+the patient has been diagnosed with dental abscess
+the patient is suffering from dental abscess
+the patient has dental abscess
+this looks like a case of dental abscess
+the patient has been diagnosed with depression
+the patient is suffering from depression
+the patient has depression
+this looks like a case of depression
+the patient has been diagnosed with dermatitis herpetiformis
+the patient is suffering from dermatitis herpetiformis
+the patient has dermatitis herpetiformis
+this looks like a case of dermatitis herpetiformis
+the patient has been diagnosed with diabetes
+the patient is suffering from diabetes
+the patient has diabetes
+this looks like a case of diabetes
+the patient has been diagnosed with diarrhoea
+the patient is suffering from diarrhoea
+the patient has diarrhoea
+this looks like a case of diarrhoea
+the patient has been diagnosed with discoid eczema
+the patient is suffering from discoid eczema
+the patient has discoid eczema
+this looks like a case of discoid eczema
+the patient has been diagnosed with diverticular disease and diverticulitis
+the patient is suffering from diverticular disease and diverticulitis
+the patient has diverticular disease and diverticulitis
+this looks like a case of diverticular disease and diverticulitis
+the patient has been diagnosed with dizziness
+the patient is suffering from dizziness
+the patient has dizziness
+this looks like a case of dizziness
+the patient has been diagnosed with down's syndrome
+the patient is suffering from down's syndrome
+the patient has down's syndrome
+this looks like a case of down's syndrome
+the patient has been diagnosed with dry mouth
+the patient is suffering from dry mouth
+the patient has dry mouth
+this looks like a case of dry mouth
+the patient has been diagnosed with dysphagia
+the patient is suffering from dysphagia
+the patient has dysphagia
+this looks like a case of dysphagia
+the patient has been diagnosed with dystonia
+the patient is suffering from dystonia
+the patient has dystonia
+this looks like a case of dystonia
+the patient has been diagnosed with earache
+the patient is suffering from earache
+the patient has earache
+this looks like a case of earache
+the patient has been diagnosed with earwax build-up
+the patient is suffering from earwax build-up
+the patient has earwax build-up
+this looks like a case of earwax build-up
+the patient has been diagnosed with ebola virus disease
+the patient is suffering from ebola virus disease
+the patient has ebola virus disease
+this looks like a case of ebola virus disease
+the patient has been diagnosed with ectopic pregnancy
+the patient is suffering from ectopic pregnancy
+the patient has ectopic pregnancy
+this looks like a case of ectopic pregnancy
+the patient has been diagnosed with endometriosis
+the patient is suffering from endometriosis
+the patient has endometriosis
+this looks like a case of endometriosis
+the patient has been diagnosed with epilepsy
+the patient is suffering from epilepsy
+the patient has epilepsy
+this looks like a case of epilepsy
+the patient has been diagnosed with erectile dysfunction
+the patient is suffering from erectile dysfunction
+the patient has erectile dysfunction
+this looks like a case of erectile dysfunction
+the patient has been diagnosed with escherichia coli
+the patient is suffering from escherichia coli
+the patient has escherichia coli
+this looks like a case of escherichia coli
+the patient has been diagnosed with ewing sarcoma
+the patient is suffering from ewing sarcoma
+the patient has ewing sarcoma
+this looks like a case of ewing sarcoma
+the patient has been diagnosed with eye cancer
+the patient is suffering from eye cancer
+the patient has eye cancer
+this looks like a case of eye cancer
+the patient has been diagnosed with febrile seizures
+the patient is suffering from febrile seizures
+the patient has febrile seizures
+this looks like a case of febrile seizures
+the patient has been diagnosed with fever 
+the patient is suffering from fever 
+the patient has fever 
+this looks like a case of fever 
+the patient has been diagnosed with fibroids
+the patient is suffering from fibroids
+the patient has fibroids
+this looks like a case of fibroids
+the patient has been diagnosed with fibromyalgia
+the patient is suffering from fibromyalgia
+the patient has fibromyalgia
+this looks like a case of fibromyalgia
+the patient has been diagnosed with flatulence
+the patient is suffering from flatulence
+the patient has flatulence
+this looks like a case of flatulence
+the patient has been diagnosed with flu
+the patient is suffering from flu
+the patient has flu
+this looks like a case of flu
+the patient has been diagnosed with foetal alcohol syndrome
+the patient is suffering from foetal alcohol syndrome
+the patient has foetal alcohol syndrome
+this looks like a case of foetal alcohol syndrome
+the patient has been diagnosed with food poisoning
+the patient is suffering from food poisoning
+the patient has food poisoning
+this looks like a case of food poisoning
+the patient has been diagnosed with fungal nail infection
+the patient is suffering from fungal nail infection
+the patient has fungal nail infection
+this looks like a case of fungal nail infection
+the patient has been diagnosed with gallbladder cancer
+the patient is suffering from gallbladder cancer
+the patient has gallbladder cancer
+this looks like a case of gallbladder cancer
+the patient has been diagnosed with gallstones
+the patient is suffering from gallstones
+the patient has gallstones
+this looks like a case of gallstones
+the patient has been diagnosed with ganglion cyst
+the patient is suffering from ganglion cyst
+the patient has ganglion cyst
+this looks like a case of ganglion cyst
+the patient has been diagnosed with gastroenteritis
+the patient is suffering from gastroenteritis
+the patient has gastroenteritis
+this looks like a case of gastroenteritis
+the patient has been diagnosed with gastro-oesophageal reflux disease
+the patient is suffering from gastro-oesophageal reflux disease
+the patient has gastro-oesophageal reflux disease
+this looks like a case of gastro-oesophageal reflux disease
+the patient has been diagnosed with genital herpes
+the patient is suffering from genital herpes
+the patient has genital herpes
+this looks like a case of genital herpes
+the patient has been diagnosed with genital warts
+the patient is suffering from genital warts
+the patient has genital warts
+this looks like a case of genital warts
+the patient has been diagnosed with germ cell tumours
+the patient is suffering from germ cell tumours
+the patient has germ cell tumours
+this looks like a case of germ cell tumours
+the patient has been diagnosed with glandular fever
+the patient is suffering from glandular fever
+the patient has glandular fever
+this looks like a case of glandular fever
+the patient has been diagnosed with gout
+the patient is suffering from gout
+the patient has gout
+this looks like a case of gout
+the patient has been diagnosed with gum disease
+the patient is suffering from gum disease
+the patient has gum disease
+this looks like a case of gum disease
+the patient has been diagnosed with haemorrhoids
+the patient is suffering from haemorrhoids
+the patient has haemorrhoids
+this looks like a case of haemorrhoids
+the patient has been diagnosed with hairy cell leukaemia
+the patient is suffering from hairy cell leukaemia
+the patient has hairy cell leukaemia
+this looks like a case of hairy cell leukaemia
+the patient has been diagnosed with hand
+the patient is suffering from hand
+the patient has hand
+this looks like a case of hand
+the patient has been diagnosed with foot and mouth disease
+the patient is suffering from foot and mouth disease
+the patient has foot and mouth disease
+this looks like a case of foot and mouth disease
+the patient has been diagnosed with hay fever
+the patient is suffering from hay fever
+the patient has hay fever
+this looks like a case of hay fever
+the patient has been diagnosed with head and neck cancer
+the patient is suffering from head and neck cancer
+the patient has head and neck cancer
+this looks like a case of head and neck cancer
+the patient has been diagnosed with head lice and nits
+the patient is suffering from head lice and nits
+the patient has head lice and nits
+this looks like a case of head lice and nits
+the patient has been diagnosed with headaches
+the patient is suffering from headaches
+the patient has headaches
+this looks like a case of headaches
+the patient has been diagnosed with hearing loss
+the patient is suffering from hearing loss
+the patient has hearing loss
+this looks like a case of hearing loss
+the patient has been diagnosed with heart failure
+the patient is suffering from heart failure
+the patient has heart failure
+this looks like a case of heart failure
+the patient has been diagnosed with hepatitis a
+the patient is suffering from hepatitis a
+the patient has hepatitis a
+this looks like a case of hepatitis a
+the patient has been diagnosed with hepatitis b
+the patient is suffering from hepatitis b
+the patient has hepatitis b
+this looks like a case of hepatitis b
+the patient has been diagnosed with hepatitis c
+the patient is suffering from hepatitis c
+the patient has hepatitis c
+this looks like a case of hepatitis c
+the patient has been diagnosed with hiatus hernia
+the patient is suffering from hiatus hernia
+the patient has hiatus hernia
+this looks like a case of hiatus hernia
+the patient has been diagnosed with high cholesterol
+the patient is suffering from high cholesterol
+the patient has high cholesterol
+this looks like a case of high cholesterol
+the patient has been diagnosed with hiv
+the patient is suffering from hiv
+the patient has hiv
+this looks like a case of hiv
+the patient has been diagnosed with hodgkin lymphoma
+the patient is suffering from hodgkin lymphoma
+the patient has hodgkin lymphoma
+this looks like a case of hodgkin lymphoma
+the patient has been diagnosed with huntington's disease
+the patient is suffering from huntington's disease
+the patient has huntington's disease
+this looks like a case of huntington's disease
+the patient has been diagnosed with hyperglycaemia
+the patient is suffering from hyperglycaemia
+the patient has hyperglycaemia
+this looks like a case of hyperglycaemia
+the patient has been diagnosed with hyperhidrosis
+the patient is suffering from hyperhidrosis
+the patient has hyperhidrosis
+this looks like a case of hyperhidrosis
+the patient has been diagnosed with hypoglycaemia
+the patient is suffering from hypoglycaemia
+the patient has hypoglycaemia
+this looks like a case of hypoglycaemia
+the patient has been diagnosed with idiopathic pulmonary fibrosis
+the patient is suffering from idiopathic pulmonary fibrosis
+the patient has idiopathic pulmonary fibrosis
+this looks like a case of idiopathic pulmonary fibrosis
+the patient has been diagnosed with impetigo
+the patient is suffering from impetigo
+the patient has impetigo
+this looks like a case of impetigo
+the patient has been diagnosed with indigestion
+the patient is suffering from indigestion
+the patient has indigestion
+this looks like a case of indigestion
+the patient has been diagnosed with ingrown toenail
+the patient is suffering from ingrown toenail
+the patient has ingrown toenail
+this looks like a case of ingrown toenail
+the patient has been diagnosed with inherited heart conditions
+the patient is suffering from inherited heart conditions
+the patient has inherited heart conditions
+this looks like a case of inherited heart conditions
+the patient has been diagnosed with insomnia
+the patient is suffering from insomnia
+the patient has insomnia
+this looks like a case of insomnia
+the patient has been diagnosed with iron deficiency anaemia
+the patient is suffering from iron deficiency anaemia
+the patient has iron deficiency anaemia
+this looks like a case of iron deficiency anaemia
+the patient has been diagnosed with irritable bowel syndrome
+the patient is suffering from irritable bowel syndrome
+the patient has irritable bowel syndrome
+this looks like a case of irritable bowel syndrome
+the patient has been diagnosed with irritable hip
+the patient is suffering from irritable hip
+the patient has irritable hip
+this looks like a case of irritable hip
+the patient has been diagnosed with itching
+the patient is suffering from itching
+the patient has itching
+this looks like a case of itching
+the patient has been diagnosed with itchy bottom
+the patient is suffering from itchy bottom
+the patient has itchy bottom
+this looks like a case of itchy bottom
+the patient has been diagnosed with kaposi's sarcoma
+the patient is suffering from kaposi's sarcoma
+the patient has kaposi's sarcoma
+this looks like a case of kaposi's sarcoma
+the patient has been diagnosed with kidney cancer
+the patient is suffering from kidney cancer
+the patient has kidney cancer
+this looks like a case of kidney cancer
+the patient has been diagnosed with kidney infection
+the patient is suffering from kidney infection
+the patient has kidney infection
+this looks like a case of kidney infection
+the patient has been diagnosed with kidney stones
+the patient is suffering from kidney stones
+the patient has kidney stones
+this looks like a case of kidney stones
+the patient has been diagnosed with labyrinthitis
+the patient is suffering from labyrinthitis
+the patient has labyrinthitis
+this looks like a case of labyrinthitis
+the patient has been diagnosed with lactose intolerance
+the patient is suffering from lactose intolerance
+the patient has lactose intolerance
+this looks like a case of lactose intolerance
+the patient has been diagnosed with langerhans cell histiocytosis
+the patient is suffering from langerhans cell histiocytosis
+the patient has langerhans cell histiocytosis
+this looks like a case of langerhans cell histiocytosis
+the patient has been diagnosed with laryngeal
+the patient is suffering from laryngeal
+the patient has laryngeal
+this looks like a case of laryngeal
+the patient has been diagnosed with laryngitis
+the patient is suffering from laryngitis
+the patient has laryngitis
+this looks like a case of laryngitis
+the patient has been diagnosed with leg cramps
+the patient is suffering from leg cramps
+the patient has leg cramps
+this looks like a case of leg cramps
+the patient has been diagnosed with lichen planus
+the patient is suffering from lichen planus
+the patient has lichen planus
+this looks like a case of lichen planus
+the patient has been diagnosed with liver cancer
+the patient is suffering from liver cancer
+the patient has liver cancer
+this looks like a case of liver cancer
+the patient has been diagnosed with liver disease
+the patient is suffering from liver disease
+the patient has liver disease
+this looks like a case of liver disease
+the patient has been diagnosed with liver tumours
+the patient is suffering from liver tumours
+the patient has liver tumours
+this looks like a case of liver tumours
+the patient has been diagnosed with loss of libido
+the patient is suffering from loss of libido
+the patient has loss of libido
+this looks like a case of loss of libido
+the patient has been diagnosed with lung cancer
+the patient is suffering from lung cancer
+the patient has lung cancer
+this looks like a case of lung cancer
+the patient has been diagnosed with lupus
+the patient is suffering from lupus
+the patient has lupus
+this looks like a case of lupus
+the patient has been diagnosed with lyme disease
+the patient is suffering from lyme disease
+the patient has lyme disease
+this looks like a case of lyme disease
+the patient has been diagnosed with lymphoedema
+the patient is suffering from lymphoedema
+the patient has lymphoedema
+this looks like a case of lymphoedema
+the patient has been diagnosed with malaria
+the patient is suffering from malaria
+the patient has malaria
+this looks like a case of malaria
+the patient has been diagnosed with malignant brain tumour
+the patient is suffering from malignant brain tumour
+the patient has malignant brain tumour
+this looks like a case of malignant brain tumour
+the patient has been diagnosed with malnutrition
+the patient is suffering from malnutrition
+the patient has malnutrition
+this looks like a case of malnutrition
+the patient has been diagnosed with measles
+the patient is suffering from measles
+the patient has measles
+this looks like a case of measles
+the patient has been diagnosed with meningitis
+the patient is suffering from meningitis
+the patient has meningitis
+this looks like a case of meningitis
+the patient has been diagnosed with menopause
+the patient is suffering from menopause
+the patient has menopause
+this looks like a case of menopause
+the patient has been diagnosed with mesothelioma
+the patient is suffering from mesothelioma
+the patient has mesothelioma
+this looks like a case of mesothelioma
+the patient has been diagnosed with middle ear infection
+the patient is suffering from middle ear infection
+the patient has middle ear infection
+this looks like a case of middle ear infection
+the patient has been diagnosed with migraine
+the patient is suffering from migraine
+the patient has migraine
+this looks like a case of migraine
+the patient has been diagnosed with miscarriage
+the patient is suffering from miscarriage
+the patient has miscarriage
+this looks like a case of miscarriage
+the patient has been diagnosed with motor neurone disease
+the patient is suffering from motor neurone disease
+the patient has motor neurone disease
+this looks like a case of motor neurone disease
+the patient has been diagnosed with mouth cancer
+the patient is suffering from mouth cancer
+the patient has mouth cancer
+this looks like a case of mouth cancer
+the patient has been diagnosed with mouth ulcer
+the patient is suffering from mouth ulcer
+the patient has mouth ulcer
+this looks like a case of mouth ulcer
+the patient has been diagnosed with multiple myeloma
+the patient is suffering from multiple myeloma
+the patient has multiple myeloma
+this looks like a case of multiple myeloma
+the patient has been diagnosed with multiple sclerosis
+the patient is suffering from multiple sclerosis
+the patient has multiple sclerosis
+this looks like a case of multiple sclerosis
+the patient has been diagnosed with mumps
+the patient is suffering from mumps
+the patient has mumps
+this looks like a case of mumps
+the patient has been diagnosed with meniere's disease
+the patient is suffering from meniere's disease
+the patient has meniere's disease
+this looks like a case of meniere's disease
+the patient has been diagnosed with nasal and sinus cancer
+the patient is suffering from nasal and sinus cancer
+the patient has nasal and sinus cancer
+this looks like a case of nasal and sinus cancer
+the patient has been diagnosed with nasopharyngeal cancer
+the patient is suffering from nasopharyngeal cancer
+the patient has nasopharyngeal cancer
+this looks like a case of nasopharyngeal cancer
+the patient has been diagnosed with neuroblastoma
+the patient is suffering from neuroblastoma
+the patient has neuroblastoma
+this looks like a case of neuroblastoma
+the patient has been diagnosed with neuroendocrine tumours
+the patient is suffering from neuroendocrine tumours
+the patient has neuroendocrine tumours
+this looks like a case of neuroendocrine tumours
+the patient has been diagnosed with non-alcoholic fatty liver disease
+the patient is suffering from non-alcoholic fatty liver disease
+the patient has non-alcoholic fatty liver disease
+this looks like a case of non-alcoholic fatty liver disease
+the patient has been diagnosed with non-hodgkin lymphoma
+the patient is suffering from non-hodgkin lymphoma
+the patient has non-hodgkin lymphoma
+this looks like a case of non-hodgkin lymphoma
+the patient has been diagnosed with norovirus
+the patient is suffering from norovirus
+the patient has norovirus
+this looks like a case of norovirus
+the patient has been diagnosed with nosebleed
+the patient is suffering from nosebleed
+the patient has nosebleed
+this looks like a case of nosebleed
+the patient has been diagnosed with obesity
+the patient is suffering from obesity
+the patient has obesity
+this looks like a case of obesity
+the patient has been diagnosed with obsessive compulsive disorder
+the patient is suffering from obsessive compulsive disorder
+the patient has obsessive compulsive disorder
+this looks like a case of obsessive compulsive disorder
+the patient has been diagnosed with obstructive sleep apnoea
+the patient is suffering from obstructive sleep apnoea
+the patient has obstructive sleep apnoea
+this looks like a case of obstructive sleep apnoea
+the patient has been diagnosed with oesophageal cancer
+the patient is suffering from oesophageal cancer
+the patient has oesophageal cancer
+this looks like a case of oesophageal cancer
+the patient has been diagnosed with oral thrush in adults
+the patient is suffering from oral thrush in adults
+the patient has oral thrush in adults
+this looks like a case of oral thrush in adults
+the patient has been diagnosed with osteoarthritis
+the patient is suffering from osteoarthritis
+the patient has osteoarthritis
+this looks like a case of osteoarthritis
+the patient has been diagnosed with osteoporosis
+the patient is suffering from osteoporosis
+the patient has osteoporosis
+this looks like a case of osteoporosis
+the patient has been diagnosed with osteosarcoma
+the patient is suffering from osteosarcoma
+the patient has osteosarcoma
+this looks like a case of osteosarcoma
+the patient has been diagnosed with otitis externa
+the patient is suffering from otitis externa
+the patient has otitis externa
+this looks like a case of otitis externa
+the patient has been diagnosed with ovarian cancer
+the patient is suffering from ovarian cancer
+the patient has ovarian cancer
+this looks like a case of ovarian cancer
+the patient has been diagnosed with ovarian cancer
+the patient is suffering from ovarian cancer
+the patient has ovarian cancer
+this looks like a case of ovarian cancer
+the patient has been diagnosed with ovarian cyst
+the patient is suffering from ovarian cyst
+the patient has ovarian cyst
+this looks like a case of ovarian cyst
+the patient has been diagnosed with overactive thyroid
+the patient is suffering from overactive thyroid
+the patient has overactive thyroid
+this looks like a case of overactive thyroid
+the patient has been diagnosed with paget's disease
+the patient is suffering from paget's disease
+the patient has paget's disease
+this looks like a case of paget's disease
+the patient has been diagnosed with pancreatic cancer
+the patient is suffering from pancreatic cancer
+the patient has pancreatic cancer
+this looks like a case of pancreatic cancer
+the patient has been diagnosed with panic disorder
+the patient is suffering from panic disorder
+the patient has panic disorder
+this looks like a case of panic disorder
+the patient has been diagnosed with parkinson's disease
+the patient is suffering from parkinson's disease
+the patient has parkinson's disease
+this looks like a case of parkinson's disease
+the patient has been diagnosed with pelvic organ prolapse
+the patient is suffering from pelvic organ prolapse
+the patient has pelvic organ prolapse
+this looks like a case of pelvic organ prolapse
+the patient has been diagnosed with penile cancer
+the patient is suffering from penile cancer
+the patient has penile cancer
+this looks like a case of penile cancer
+the patient has been diagnosed with peripheral neuropathy
+the patient is suffering from peripheral neuropathy
+the patient has peripheral neuropathy
+this looks like a case of peripheral neuropathy
+the patient has been diagnosed with personality disorder
+the patient is suffering from personality disorder
+the patient has personality disorder
+this looks like a case of personality disorder
+the patient has been diagnosed with pleurisy
+the patient is suffering from pleurisy
+the patient has pleurisy
+this looks like a case of pleurisy
+the patient has been diagnosed with pneumonia
+the patient is suffering from pneumonia
+the patient has pneumonia
+this looks like a case of pneumonia
+the patient has been diagnosed with polymyalgia rheumatica
+the patient is suffering from polymyalgia rheumatica
+the patient has polymyalgia rheumatica
+this looks like a case of polymyalgia rheumatica
+the patient has been diagnosed with post-traumatic stress disorder
+the patient is suffering from post-traumatic stress disorder
+the patient has post-traumatic stress disorder
+this looks like a case of post-traumatic stress disorder
+the patient has been diagnosed with postnatal depression
+the patient is suffering from postnatal depression
+the patient has postnatal depression
+this looks like a case of postnatal depression
+the patient has been diagnosed with pregnancy 
+the patient is suffering from pregnancy 
+the patient has pregnancy 
+this looks like a case of pregnancy 
+the patient has been diagnosed with pressure ulcers
+the patient is suffering from pressure ulcers
+the patient has pressure ulcers
+this looks like a case of pressure ulcers
+the patient has been diagnosed with prostate cancer
+the patient is suffering from prostate cancer
+the patient has prostate cancer
+this looks like a case of prostate cancer
+the patient has been diagnosed with psoriasis
+the patient is suffering from psoriasis
+the patient has psoriasis
+this looks like a case of psoriasis
+the patient has been diagnosed with psoriatic arthritis
+the patient is suffering from psoriatic arthritis
+the patient has psoriatic arthritis
+this looks like a case of psoriatic arthritis
+the patient has been diagnosed with psychosis
+the patient is suffering from psychosis
+the patient has psychosis
+this looks like a case of psychosis
+the patient has been diagnosed with raynaud's phenomenon
+the patient is suffering from raynaud's phenomenon
+the patient has raynaud's phenomenon
+this looks like a case of raynaud's phenomenon
+the patient has been diagnosed with reactive arthritis
+the patient is suffering from reactive arthritis
+the patient has reactive arthritis
+this looks like a case of reactive arthritis
+the patient has been diagnosed with restless legs syndrome
+the patient is suffering from restless legs syndrome
+the patient has restless legs syndrome
+this looks like a case of restless legs syndrome
+the patient has been diagnosed with retinoblastoma
+the patient is suffering from retinoblastoma
+the patient has retinoblastoma
+this looks like a case of retinoblastoma
+the patient has been diagnosed with retinoblastoma
+the patient is suffering from retinoblastoma
+the patient has retinoblastoma
+this looks like a case of retinoblastoma
+the patient has been diagnosed with rhabdomyosarcoma
+the patient is suffering from rhabdomyosarcoma
+the patient has rhabdomyosarcoma
+this looks like a case of rhabdomyosarcoma
+the patient has been diagnosed with rheumatoid arthritis
+the patient is suffering from rheumatoid arthritis
+the patient has rheumatoid arthritis
+this looks like a case of rheumatoid arthritis
+the patient has been diagnosed with ringworm and other fungal infections
+the patient is suffering from ringworm and other fungal infections
+the patient has ringworm and other fungal infections
+this looks like a case of ringworm and other fungal infections
+the patient has been diagnosed with rosacea
+the patient is suffering from rosacea
+the patient has rosacea
+this looks like a case of rosacea
+the patient has been diagnosed with scabies
+the patient is suffering from scabies
+the patient has scabies
+this looks like a case of scabies
+the patient has been diagnosed with scarlet fever
+the patient is suffering from scarlet fever
+the patient has scarlet fever
+this looks like a case of scarlet fever
+the patient has been diagnosed with schizophrenia
+the patient is suffering from schizophrenia
+the patient has schizophrenia
+this looks like a case of schizophrenia
+the patient has been diagnosed with scoliosis
+the patient is suffering from scoliosis
+the patient has scoliosis
+this looks like a case of scoliosis
+the patient has been diagnosed with septic shock
+the patient is suffering from septic shock
+the patient has septic shock
+this looks like a case of septic shock
+the patient has been diagnosed with sexually transmitted infections
+the patient is suffering from sexually transmitted infections
+the patient has sexually transmitted infections
+this looks like a case of sexually transmitted infections
+the patient has been diagnosed with shingles
+the patient is suffering from shingles
+the patient has shingles
+this looks like a case of shingles
+the patient has been diagnosed with shortness of breath
+the patient is suffering from shortness of breath
+the patient has shortness of breath
+this looks like a case of shortness of breath
+the patient has been diagnosed with sickle cell disease
+the patient is suffering from sickle cell disease
+the patient has sickle cell disease
+this looks like a case of sickle cell disease
+the patient has been diagnosed with sinusitis
+the patient is suffering from sinusitis
+the patient has sinusitis
+this looks like a case of sinusitis
+the patient has been diagnosed with sjogren's syndrome
+the patient is suffering from sjogren's syndrome
+the patient has sjogren's syndrome
+this looks like a case of sjogren's syndrome
+the patient has been diagnosed with skin cancer
+the patient is suffering from skin cancer
+the patient has skin cancer
+this looks like a case of skin cancer
+the patient has been diagnosed with slapped cheek syndrome
+the patient is suffering from slapped cheek syndrome
+the patient has slapped cheek syndrome
+this looks like a case of slapped cheek syndrome
+the patient has been diagnosed with soft tissue sarcomas
+the patient is suffering from soft tissue sarcomas
+the patient has soft tissue sarcomas
+this looks like a case of soft tissue sarcomas
+the patient has been diagnosed with sore throat
+the patient is suffering from sore throat
+the patient has sore throat
+this looks like a case of sore throat
+the patient has been diagnosed with spleen problems and spleen removal
+the patient is suffering from spleen problems and spleen removal
+the patient has spleen problems and spleen removal
+this looks like a case of spleen problems and spleen removal
+the patient has been diagnosed with stillbirth
+the patient is suffering from stillbirth
+the patient has stillbirth
+this looks like a case of stillbirth
+the patient has been diagnosed with stomach ache and abdominal pain
+the patient is suffering from stomach ache and abdominal pain
+the patient has stomach ache and abdominal pain
+this looks like a case of stomach ache and abdominal pain
+the patient has been diagnosed with stomach cancer
+the patient is suffering from stomach cancer
+the patient has stomach cancer
+this looks like a case of stomach cancer
+the patient has been diagnosed with stomach ulcer
+the patient is suffering from stomach ulcer
+the patient has stomach ulcer
+this looks like a case of stomach ulcer
+the patient has been diagnosed with stress
+the patient is suffering from stress
+the patient has stress
+this looks like a case of stress
+the patient has been diagnosed with anxiety and low mood
+the patient is suffering from anxiety and low mood
+the patient has anxiety and low mood
+this looks like a case of anxiety and low mood
+the patient has been diagnosed with stroke
+the patient is suffering from stroke
+the patient has stroke
+this looks like a case of stroke
+the patient has been diagnosed with sudden infant death syndrome
+the patient is suffering from sudden infant death syndrome
+the patient has sudden infant death syndrome
+this looks like a case of sudden infant death syndrome
+the patient has been diagnosed with suicide
+the patient is suffering from suicide
+the patient has suicide
+this looks like a case of suicide
+the patient has been diagnosed with sunburn
+the patient is suffering from sunburn
+the patient has sunburn
+this looks like a case of sunburn
+the patient has been diagnosed with swollen glands
+the patient is suffering from swollen glands
+the patient has swollen glands
+this looks like a case of swollen glands
+the patient has been diagnosed with testicular cancer
+the patient is suffering from testicular cancer
+the patient has testicular cancer
+this looks like a case of testicular cancer
+the patient has been diagnosed with testicular cancer
+the patient is suffering from testicular cancer
+the patient has testicular cancer
+this looks like a case of testicular cancer
+the patient has been diagnosed with testicular lumps and swellings
+the patient is suffering from testicular lumps and swellings
+the patient has testicular lumps and swellings
+this looks like a case of testicular lumps and swellings
+the patient has been diagnosed with thirst
+the patient is suffering from thirst
+the patient has thirst
+this looks like a case of thirst
+the patient has been diagnosed with threadworms
+the patient is suffering from threadworms
+the patient has threadworms
+this looks like a case of threadworms
+the patient has been diagnosed with thrush in men
+the patient is suffering from thrush in men
+the patient has thrush in men
+this looks like a case of thrush in men
+the patient has been diagnosed with thyroid cancer
+the patient is suffering from thyroid cancer
+the patient has thyroid cancer
+this looks like a case of thyroid cancer
+the patient has been diagnosed with thyroid cancer
+the patient is suffering from thyroid cancer
+the patient has thyroid cancer
+this looks like a case of thyroid cancer
+the patient has been diagnosed with tinnitus
+the patient is suffering from tinnitus
+the patient has tinnitus
+this looks like a case of tinnitus
+the patient has been diagnosed with tonsillitis
+the patient is suffering from tonsillitis
+the patient has tonsillitis
+this looks like a case of tonsillitis
+the patient has been diagnosed with tooth decay
+the patient is suffering from tooth decay
+the patient has tooth decay
+this looks like a case of tooth decay
+the patient has been diagnosed with toothache
+the patient is suffering from toothache
+the patient has toothache
+this looks like a case of toothache
+the patient has been diagnosed with transient ischaemic attack
+the patient is suffering from transient ischaemic attack
+the patient has transient ischaemic attack
+this looks like a case of transient ischaemic attack
+the patient has been diagnosed with trigeminal neuralgia
+the patient is suffering from trigeminal neuralgia
+the patient has trigeminal neuralgia
+this looks like a case of trigeminal neuralgia
+the patient has been diagnosed with tuberculosis
+the patient is suffering from tuberculosis
+the patient has tuberculosis
+this looks like a case of tuberculosis
+the patient has been diagnosed with type 1 diabetes
+the patient is suffering from type 1 diabetes
+the patient has type 1 diabetes
+this looks like a case of type 1 diabetes
+the patient has been diagnosed with type 2 diabetes
+the patient is suffering from type 2 diabetes
+the patient has type 2 diabetes
+this looks like a case of type 2 diabetes
+the patient has been diagnosed with ulcerative colitis
+the patient is suffering from ulcerative colitis
+the patient has ulcerative colitis
+this looks like a case of ulcerative colitis
+the patient has been diagnosed with underactive thyroid
+the patient is suffering from underactive thyroid
+the patient has underactive thyroid
+this looks like a case of underactive thyroid
+the patient has been diagnosed with urinary incontinence
+the patient is suffering from urinary incontinence
+the patient has urinary incontinence
+this looks like a case of urinary incontinence
+the patient has been diagnosed with urinary tract infection
+the patient is suffering from urinary tract infection
+the patient has urinary tract infection
+this looks like a case of urinary tract infection
+the patient has been diagnosed with urinary tract infection
+the patient is suffering from urinary tract infection
+the patient has urinary tract infection
+this looks like a case of urinary tract infection
+the patient has been diagnosed with urticaria
+the patient is suffering from urticaria
+the patient has urticaria
+this looks like a case of urticaria
+the patient has been diagnosed with vaginal cancer
+the patient is suffering from vaginal cancer
+the patient has vaginal cancer
+this looks like a case of vaginal cancer
+the patient has been diagnosed with vaginal thrush
+the patient is suffering from vaginal thrush
+the patient has vaginal thrush
+this looks like a case of vaginal thrush
+the patient has been diagnosed with varicose eczema
+the patient is suffering from varicose eczema
+the patient has varicose eczema
+this looks like a case of varicose eczema
+the patient has been diagnosed with varicose veins
+the patient is suffering from varicose veins
+the patient has varicose veins
+this looks like a case of varicose veins
+the patient has been diagnosed with venous leg ulcer
+the patient is suffering from venous leg ulcer
+the patient has venous leg ulcer
+this looks like a case of venous leg ulcer
+the patient has been diagnosed with vertigo
+the patient is suffering from vertigo
+the patient has vertigo
+this looks like a case of vertigo
+the patient has been diagnosed with vomiting in adults
+the patient is suffering from vomiting in adults
+the patient has vomiting in adults
+this looks like a case of vomiting in adults
+the patient has been diagnosed with vulval cancer
+the patient is suffering from vulval cancer
+the patient has vulval cancer
+this looks like a case of vulval cancer
+the patient has been diagnosed with warts and verrucas
+the patient is suffering from warts and verrucas
+the patient has warts and verrucas
+this looks like a case of warts and verrucas
+the patient has been diagnosed with whooping cough
+the patient is suffering from whooping cough
+the patient has whooping cough
+this looks like a case of whooping cough
+the patient has been diagnosed with wilms’ tumour
+the patient is suffering from wilms’ tumour
+the patient has wilms’ tumour
+this looks like a case of wilms’ tumour
+the patient has been diagnosed with yellow fever
+the patient is suffering from yellow fever
+the patient has yellow fever
+this looks like a case of yellow fever
+the patient has been diagnosed with adhd
+the patient is suffering from adhd
+the patient has adhd
+this looks like a case of adhd
+the patient has been diagnosed with folate deficiency anaemia
+the patient is suffering from folate deficiency anaemia
+the patient has folate deficiency anaemia
+this looks like a case of folate deficiency anaemia
+the patient has been diagnosed with vitamin b12 deficiency
+the patient is suffering from vitamin b12 deficiency
+the patient has vitamin b12 deficiency
+this looks like a case of vitamin b12 deficiency
+the patient has been diagnosed with fever
+the patient is suffering from fever
+the patient has fever
+this looks like a case of fever
+The medicine prescribed for diagnosis is pitolisant tablets
+Take doses of pitolisant tablets
+The patient is advised to take pitolisant tablets
+The patient needs to take pitolisant tablets
+pitolisant tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is coumadin
+Take doses of coumadin
+The patient is advised to take coumadin
+The patient needs to take coumadin
+coumadin has been prescribed for the patient 
+The medicine prescribed for diagnosis is jantoven
+Take doses of jantoven
+The patient is advised to take jantoven
+The patient needs to take jantoven
+jantoven has been prescribed for the patient 
+The medicine prescribed for diagnosis is colesevelam hcl
+Take doses of colesevelam hcl
+The patient is advised to take colesevelam hcl
+The patient needs to take colesevelam hcl
+colesevelam hcl has been prescribed for the patient 
+The medicine prescribed for diagnosis is bupropion hcl
+Take doses of bupropion hcl
+The patient is advised to take bupropion hcl
+The patient needs to take bupropion hcl
+bupropion hcl has been prescribed for the patient 
+The medicine prescribed for diagnosis is bupropion hydrochloride sustained release
+Take doses of bupropion hydrochloride sustained release
+The patient is advised to take bupropion hydrochloride sustained release
+The patient needs to take bupropion hydrochloride sustained release
+bupropion hydrochloride sustained release has been prescribed for the patient 
+The medicine prescribed for diagnosis is bupropion hydrochloride extended release
+Take doses of bupropion hydrochloride extended release
+The patient is advised to take bupropion hydrochloride extended release
+The patient needs to take bupropion hydrochloride extended release
+bupropion hydrochloride extended release has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydrocortisone valerate cream
+Take doses of hydrocortisone valerate cream
+The patient is advised to take hydrocortisone valerate cream
+The patient needs to take hydrocortisone valerate cream
+hydrocortisone valerate cream has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydrocortisone valerate ointment
+Take doses of hydrocortisone valerate ointment
+The patient is advised to take hydrocortisone valerate ointment
+The patient needs to take hydrocortisone valerate ointment
+hydrocortisone valerate ointment has been prescribed for the patient 
+The medicine prescribed for diagnosis is ergotamine and caffeine
+Take doses of ergotamine and caffeine
+The patient is advised to take ergotamine and caffeine
+The patient needs to take ergotamine and caffeine
+ergotamine and caffeine has been prescribed for the patient 
+The medicine prescribed for diagnosis is von willebrand factor/coagulation factor viii complex
+Take doses of von willebrand factor/coagulation factor viii complex
+The patient is advised to take von willebrand factor/coagulation factor viii complex
+The patient needs to take von willebrand factor/coagulation factor viii complex
+von willebrand factor/coagulation factor viii complex has been prescribed for the patient 
+The medicine prescribed for diagnosis is human
+Take doses of human
+The patient is advised to take human
+The patient needs to take human
+human has been prescribed for the patient 
+The medicine prescribed for diagnosis is winrho sdf
+Take doses of winrho sdf
+The patient is advised to take winrho sdf
+The patient needs to take winrho sdf
+winrho sdf has been prescribed for the patient 
+The medicine prescribed for diagnosis is anabolic steroids
+Take doses of anabolic steroids
+The patient is advised to take anabolic steroids
+The patient needs to take anabolic steroids
+anabolic steroids has been prescribed for the patient 
+The medicine prescribed for diagnosis is fluticasone propionate and salmeterol inhalation powder
+Take doses of fluticasone propionate and salmeterol inhalation powder
+The patient is advised to take fluticasone propionate and salmeterol inhalation powder
+The patient needs to take fluticasone propionate and salmeterol inhalation powder
+fluticasone propionate and salmeterol inhalation powder has been prescribed for the patient 
+The medicine prescribed for diagnosis is lisinopril tablets
+Take doses of lisinopril tablets
+The patient is advised to take lisinopril tablets
+The patient needs to take lisinopril tablets
+lisinopril tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is meloxicam orally disintegrating tablets
+Take doses of meloxicam orally disintegrating tablets
+The patient is advised to take meloxicam orally disintegrating tablets
+The patient needs to take meloxicam orally disintegrating tablets
+meloxicam orally disintegrating tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is beclomethasone dipropionate nasal aerosol
+Take doses of beclomethasone dipropionate nasal aerosol
+The patient is advised to take beclomethasone dipropionate nasal aerosol
+The patient needs to take beclomethasone dipropionate nasal aerosol
+beclomethasone dipropionate nasal aerosol has been prescribed for the patient 
+The medicine prescribed for diagnosis is brimonidine tartrate ophthalmic solution
+Take doses of brimonidine tartrate ophthalmic solution
+The patient is advised to take brimonidine tartrate ophthalmic solution
+The patient needs to take brimonidine tartrate ophthalmic solution
+brimonidine tartrate ophthalmic solution has been prescribed for the patient 
+The medicine prescribed for diagnosis is phentermine and topiramate
+Take doses of phentermine and topiramate
+The patient is advised to take phentermine and topiramate
+The patient needs to take phentermine and topiramate
+phentermine and topiramate has been prescribed for the patient 
+The medicine prescribed for diagnosis is diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine
+Take doses of diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine
+The patient is advised to take diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine
+The patient needs to take diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine
+diphtheria and tetanus toxoids and acellular pertussis adsorbed and inactivated poliovirus vaccine has been prescribed for the patient 
+The medicine prescribed for diagnosis is samarium sm 153 lexidronam
+Take doses of samarium sm 153 lexidronam
+The patient is advised to take samarium sm 153 lexidronam
+The patient needs to take samarium sm 153 lexidronam
+samarium sm 153 lexidronam has been prescribed for the patient 
+The medicine prescribed for diagnosis is gardasil
+Take doses of gardasil
+The patient is advised to take gardasil
+The patient needs to take gardasil
+gardasil has been prescribed for the patient 
+The medicine prescribed for diagnosis is quinine sulfate capsules
+Take doses of quinine sulfate capsules
+The patient is advised to take quinine sulfate capsules
+The patient needs to take quinine sulfate capsules
+quinine sulfate capsules has been prescribed for the patient 
+The medicine prescribed for diagnosis is levonorgestrel/ethinyl estradiol and ethinyl estradiol
+Take doses of levonorgestrel/ethinyl estradiol and ethinyl estradiol
+The patient is advised to take levonorgestrel/ethinyl estradiol and ethinyl estradiol
+The patient needs to take levonorgestrel/ethinyl estradiol and ethinyl estradiol
+levonorgestrel/ethinyl estradiol and ethinyl estradiol has been prescribed for the patient 
+The medicine prescribed for diagnosis is levonorgestrel and ethinyl estradiol tablets
+Take doses of levonorgestrel and ethinyl estradiol tablets
+The patient is advised to take levonorgestrel and ethinyl estradiol tablets
+The patient needs to take levonorgestrel and ethinyl estradiol tablets
+levonorgestrel and ethinyl estradiol tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is doral
+Take doses of doral
+The patient is advised to take doral
+The patient needs to take doral
+doral has been prescribed for the patient 
+The medicine prescribed for diagnosis is topiramate extended release capsules
+Take doses of topiramate extended release capsules
+The patient is advised to take topiramate extended release capsules
+The patient needs to take topiramate extended release capsules
+topiramate extended release capsules has been prescribed for the patient 
+The medicine prescribed for diagnosis is succinylcholine chloride injection
+Take doses of succinylcholine chloride injection
+The patient is advised to take succinylcholine chloride injection
+The patient needs to take succinylcholine chloride injection
+succinylcholine chloride injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is cholestyramine
+Take doses of cholestyramine
+The patient is advised to take cholestyramine
+The patient needs to take cholestyramine
+cholestyramine has been prescribed for the patient 
+The medicine prescribed for diagnosis is seroquel
+Take doses of seroquel
+The patient is advised to take seroquel
+The patient needs to take seroquel
+seroquel has been prescribed for the patient 
+The medicine prescribed for diagnosis is seroquel xr
+Take doses of seroquel xr
+The patient is advised to take seroquel xr
+The patient needs to take seroquel xr
+seroquel xr has been prescribed for the patient 
+The medicine prescribed for diagnosis is methylphenidate hydrochloride extended release chewable tablets
+Take doses of methylphenidate hydrochloride extended release chewable tablets
+The patient is advised to take methylphenidate hydrochloride extended release chewable tablets
+The patient needs to take methylphenidate hydrochloride extended release chewable tablets
+methylphenidate hydrochloride extended release chewable tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is accuretic
+Take doses of accuretic
+The patient is advised to take accuretic
+The patient needs to take accuretic
+accuretic has been prescribed for the patient 
+The medicine prescribed for diagnosis is accupril
+Take doses of accupril
+The patient is advised to take accupril
+The patient needs to take accupril
+accupril has been prescribed for the patient 
+The medicine prescribed for diagnosis is quinidine
+Take doses of quinidine
+The patient is advised to take quinidine
+The patient needs to take quinidine
+quinidine has been prescribed for the patient 
+The medicine prescribed for diagnosis is quinidex
+Take doses of quinidex
+The patient is advised to take quinidex
+The patient needs to take quinidex
+quinidex has been prescribed for the patient 
+The medicine prescribed for diagnosis is quinidine gluconate
+Take doses of quinidine gluconate
+The patient is advised to take quinidine gluconate
+The patient needs to take quinidine gluconate
+quinidine gluconate has been prescribed for the patient 
+The medicine prescribed for diagnosis is quinidine injection
+Take doses of quinidine injection
+The patient is advised to take quinidine injection
+The patient needs to take quinidine injection
+quinidine injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is quinidine gluconate injection
+Take doses of quinidine gluconate injection
+The patient is advised to take quinidine gluconate injection
+The patient needs to take quinidine gluconate injection
+quinidine gluconate injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is qualaquin
+Take doses of qualaquin
+The patient is advised to take qualaquin
+The patient needs to take qualaquin
+qualaquin has been prescribed for the patient 
+The medicine prescribed for diagnosis is synercid
+Take doses of synercid
+The patient is advised to take synercid
+The patient needs to take synercid
+synercid has been prescribed for the patient 
+The medicine prescribed for diagnosis is levofloxacin ophthalmic solution 0.5%
+Take doses of levofloxacin ophthalmic solution 0.5%
+The patient is advised to take levofloxacin ophthalmic solution 0.5%
+The patient needs to take levofloxacin ophthalmic solution 0.5%
+levofloxacin ophthalmic solution 0.5% has been prescribed for the patient 
+The medicine prescribed for diagnosis is capsaicin 8% patch
+Take doses of capsaicin 8% patch
+The patient is advised to take capsaicin 8% patch
+The patient needs to take capsaicin 8% patch
+capsaicin 8% patch has been prescribed for the patient 
+The medicine prescribed for diagnosis is cetirizine hydrochloride injection
+Take doses of cetirizine hydrochloride injection
+The patient is advised to take cetirizine hydrochloride injection
+The patient needs to take cetirizine hydrochloride injection
+cetirizine hydrochloride injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is beclomethasone dipropionate hfa
+Take doses of beclomethasone dipropionate hfa
+The patient is advised to take beclomethasone dipropionate hfa
+The patient needs to take beclomethasone dipropionate hfa
+beclomethasone dipropionate hfa has been prescribed for the patient 
+The medicine prescribed for diagnosis is ubrogepant tablets
+Take doses of ubrogepant tablets
+The patient is advised to take ubrogepant tablets
+The patient needs to take ubrogepant tablets
+ubrogepant tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is ubrelvy
+Take doses of ubrelvy
+The patient is advised to take ubrelvy
+The patient needs to take ubrelvy
+ubrelvy has been prescribed for the patient 
+The medicine prescribed for diagnosis is budesonide rectal foam
+Take doses of budesonide rectal foam
+The patient is advised to take budesonide rectal foam
+The patient needs to take budesonide rectal foam
+budesonide rectal foam has been prescribed for the patient 
+The medicine prescribed for diagnosis is budesonide tablets
+Take doses of budesonide tablets
+The patient is advised to take budesonide tablets
+The patient needs to take budesonide tablets
+budesonide tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is pegfilgrastim cbqv injection
+Take doses of pegfilgrastim cbqv injection
+The patient is advised to take pegfilgrastim cbqv injection
+The patient needs to take pegfilgrastim cbqv injection
+pegfilgrastim cbqv injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is benzyl alcohol lotion for topical use
+Take doses of benzyl alcohol lotion for topical use
+The patient is advised to take benzyl alcohol lotion for topical use
+The patient needs to take benzyl alcohol lotion for topical use
+benzyl alcohol lotion for topical use has been prescribed for the patient 
+The medicine prescribed for diagnosis is ella
+Take doses of ella
+The patient is advised to take ella
+The patient needs to take ella
+ella has been prescribed for the patient 
+The medicine prescribed for diagnosis is febuxostat
+Take doses of febuxostat
+The patient is advised to take febuxostat
+The patient needs to take febuxostat
+febuxostat has been prescribed for the patient 
+The medicine prescribed for diagnosis is articaine hcl and epinephrine for injection
+Take doses of articaine hcl and epinephrine for injection
+The patient is advised to take articaine hcl and epinephrine for injection
+The patient needs to take articaine hcl and epinephrine for injection
+articaine hcl and epinephrine for injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is sevoflurane
+Take doses of sevoflurane
+The patient is advised to take sevoflurane
+The patient needs to take sevoflurane
+sevoflurane has been prescribed for the patient 
+The medicine prescribed for diagnosis is remifentanil
+Take doses of remifentanil
+The patient is advised to take remifentanil
+The patient needs to take remifentanil
+remifentanil has been prescribed for the patient 
+The medicine prescribed for diagnosis is ravulizumab cwvz injection
+Take doses of ravulizumab cwvz injection
+The patient is advised to take ravulizumab cwvz injection
+The patient needs to take ravulizumab cwvz injection
+ravulizumab cwvz injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is technetium tc 99m generator for the production of sodium pertechnetate tc 99m injection
+Take doses of technetium tc 99m generator for the production of sodium pertechnetate tc 99m injection
+The patient is advised to take technetium tc 99m generator for the production of sodium pertechnetate tc 99m injection
+The patient needs to take technetium tc 99m generator for the production of sodium pertechnetate tc 99m injection
+technetium tc 99m generator for the production of sodium pertechnetate tc 99m injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is tramadol hydrochloride and acetaminophen tablets
+Take doses of tramadol hydrochloride and acetaminophen tablets
+The patient is advised to take tramadol hydrochloride and acetaminophen tablets
+The patient needs to take tramadol hydrochloride and acetaminophen tablets
+tramadol hydrochloride and acetaminophen tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is tramadol hcl
+Take doses of tramadol hcl
+The patient is advised to take tramadol hcl
+The patient needs to take tramadol hcl
+tramadol hcl has been prescribed for the patient 
+The medicine prescribed for diagnosis is tramadol hcl extended release
+Take doses of tramadol hcl extended release
+The patient is advised to take tramadol hcl extended release
+The patient needs to take tramadol hcl extended release
+tramadol hcl extended release has been prescribed for the patient 
+The medicine prescribed for diagnosis is pancrelipase
+Take doses of pancrelipase
+The patient is advised to take pancrelipase
+The patient needs to take pancrelipase
+pancrelipase has been prescribed for the patient 
+The medicine prescribed for diagnosis is pancrelipase capsules
+Take doses of pancrelipase capsules
+The patient is advised to take pancrelipase capsules
+The patient needs to take pancrelipase capsules
+pancrelipase capsules has been prescribed for the patient 
+The medicine prescribed for diagnosis is halobetasol propionate
+Take doses of halobetasol propionate
+The patient is advised to take halobetasol propionate
+The patient needs to take halobetasol propionate
+halobetasol propionate has been prescribed for the patient 
+The medicine prescribed for diagnosis is halobetasol propionate ointment
+Take doses of halobetasol propionate ointment
+The patient is advised to take halobetasol propionate ointment
+The patient needs to take halobetasol propionate ointment
+halobetasol propionate ointment has been prescribed for the patient 
+The medicine prescribed for diagnosis is iopromide injection
+Take doses of iopromide injection
+The patient is advised to take iopromide injection
+The patient needs to take iopromide injection
+iopromide injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is anoro ellipta
+Take doses of anoro ellipta
+The patient is advised to take anoro ellipta
+The patient needs to take anoro ellipta
+anoro ellipta has been prescribed for the patient 
+The medicine prescribed for diagnosis is incruse ellipta
+Take doses of incruse ellipta
+The patient is advised to take incruse ellipta
+The patient needs to take incruse ellipta
+incruse ellipta has been prescribed for the patient 
+The medicine prescribed for diagnosis is ampicillin and sulbactam
+Take doses of ampicillin and sulbactam
+The patient is advised to take ampicillin and sulbactam
+The patient needs to take ampicillin and sulbactam
+ampicillin and sulbactam has been prescribed for the patient 
+The medicine prescribed for diagnosis is theophylline anhydrous tablet
+Take doses of theophylline anhydrous tablet
+The patient is advised to take theophylline anhydrous tablet
+The patient needs to take theophylline anhydrous tablet
+theophylline anhydrous tablet has been prescribed for the patient 
+The medicine prescribed for diagnosis is moexipril hcl hydrochlorothiazide tablets
+Take doses of moexipril hcl hydrochlorothiazide tablets
+The patient is advised to take moexipril hcl hydrochlorothiazide tablets
+The patient needs to take moexipril hcl hydrochlorothiazide tablets
+moexipril hcl hydrochlorothiazide tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is levothyroxine sodium
+Take doses of levothyroxine sodium
+The patient is advised to take levothyroxine sodium
+The patient needs to take levothyroxine sodium
+levothyroxine sodium has been prescribed for the patient 
+The medicine prescribed for diagnosis is dinutuximab injection
+Take doses of dinutuximab injection
+The patient is advised to take dinutuximab injection
+The patient needs to take dinutuximab injection
+dinutuximab injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is moexipril
+Take doses of moexipril
+The patient is advised to take moexipril
+The patient needs to take moexipril
+moexipril has been prescribed for the patient 
+The medicine prescribed for diagnosis is rescula
+Take doses of rescula
+The patient is advised to take rescula
+The patient needs to take rescula
+rescula has been prescribed for the patient 
+The medicine prescribed for diagnosis is rinvoq
+Take doses of rinvoq
+The patient is advised to take rinvoq
+The patient needs to take rinvoq
+rinvoq has been prescribed for the patient 
+The medicine prescribed for diagnosis is uptravi selexipag tablets
+Take doses of uptravi selexipag tablets
+The patient is advised to take uptravi selexipag tablets
+The patient needs to take uptravi selexipag tablets
+uptravi selexipag tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is uptravi
+Take doses of uptravi
+The patient is advised to take uptravi
+The patient needs to take uptravi
+uptravi has been prescribed for the patient 
+The medicine prescribed for diagnosis is methenamine hippurate
+Take doses of methenamine hippurate
+The patient is advised to take methenamine hippurate
+The patient needs to take methenamine hippurate
+methenamine hippurate has been prescribed for the patient 
+The medicine prescribed for diagnosis is xuriden
+Take doses of xuriden
+The patient is advised to take xuriden
+The patient needs to take xuriden
+xuriden has been prescribed for the patient 
+The medicine prescribed for diagnosis is vistogard
+Take doses of vistogard
+The patient is advised to take vistogard
+The patient needs to take vistogard
+vistogard has been prescribed for the patient 
+The medicine prescribed for diagnosis is flavoxate hcl
+Take doses of flavoxate hcl
+The patient is advised to take flavoxate hcl
+The patient needs to take flavoxate hcl
+flavoxate hcl has been prescribed for the patient 
+The medicine prescribed for diagnosis is potassium citrate extended release tablets
+Take doses of potassium citrate extended release tablets
+The patient is advised to take potassium citrate extended release tablets
+The patient needs to take potassium citrate extended release tablets
+potassium citrate extended release tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is fertinex
+Take doses of fertinex
+The patient is advised to take fertinex
+The patient needs to take fertinex
+fertinex has been prescribed for the patient 
+The medicine prescribed for diagnosis is metrodin
+Take doses of metrodin
+The patient is advised to take metrodin
+The patient needs to take metrodin
+metrodin has been prescribed for the patient 
+The medicine prescribed for diagnosis is bravelle
+Take doses of bravelle
+The patient is advised to take bravelle
+The patient needs to take bravelle
+bravelle has been prescribed for the patient 
+The medicine prescribed for diagnosis is kinlytic
+Take doses of kinlytic
+The patient is advised to take kinlytic
+The patient needs to take kinlytic
+kinlytic has been prescribed for the patient 
+The medicine prescribed for diagnosis is alfuzosin hcl
+Take doses of alfuzosin hcl
+The patient is advised to take alfuzosin hcl
+The patient needs to take alfuzosin hcl
+alfuzosin hcl has been prescribed for the patient 
+The medicine prescribed for diagnosis is ursodiol
+Take doses of ursodiol
+The patient is advised to take ursodiol
+The patient needs to take ursodiol
+ursodiol has been prescribed for the patient 
+The medicine prescribed for diagnosis is stelara injection
+Take doses of stelara injection
+The patient is advised to take stelara injection
+The patient needs to take stelara injection
+stelara injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is repository corticotropin injection
+Take doses of repository corticotropin injection
+The patient is advised to take repository corticotropin injection
+The patient needs to take repository corticotropin injection
+repository corticotropin injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is adalimumab bwwd injection
+Take doses of adalimumab bwwd injection
+The patient is advised to take adalimumab bwwd injection
+The patient needs to take adalimumab bwwd injection
+adalimumab bwwd injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is c1 esterase inhibitor subcutaneous [human] injection
+Take doses of c1 esterase inhibitor subcutaneous [human] injection
+The patient is advised to take c1 esterase inhibitor subcutaneous [human] injection
+The patient needs to take c1 esterase inhibitor subcutaneous [human] injection
+c1 esterase inhibitor subcutaneous [human] injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is comvax
+Take doses of comvax
+The patient is advised to take comvax
+The patient needs to take comvax
+comvax has been prescribed for the patient 
+The medicine prescribed for diagnosis is acthib
+Take doses of acthib
+The patient is advised to take acthib
+The patient needs to take acthib
+acthib has been prescribed for the patient 
+The medicine prescribed for diagnosis is prohibit
+Take doses of prohibit
+The patient is advised to take prohibit
+The patient needs to take prohibit
+prohibit has been prescribed for the patient 
+The medicine prescribed for diagnosis is pedvax hib
+Take doses of pedvax hib
+The patient is advised to take pedvax hib
+The patient needs to take pedvax hib
+pedvax hib has been prescribed for the patient 
+The medicine prescribed for diagnosis is hiberix
+Take doses of hiberix
+The patient is advised to take hiberix
+The patient needs to take hiberix
+hiberix has been prescribed for the patient 
+The medicine prescribed for diagnosis is eribulin mesylate
+Take doses of eribulin mesylate
+The patient is advised to take eribulin mesylate
+The patient needs to take eribulin mesylate
+eribulin mesylate has been prescribed for the patient 
+The medicine prescribed for diagnosis is halog cream
+Take doses of halog cream
+The patient is advised to take halog cream
+The patient needs to take halog cream
+halog cream has been prescribed for the patient 
+The medicine prescribed for diagnosis is halog e cream
+Take doses of halog e cream
+The patient is advised to take halog e cream
+The patient needs to take halog e cream
+halog e cream has been prescribed for the patient 
+The medicine prescribed for diagnosis is halog ointment
+Take doses of halog ointment
+The patient is advised to take halog ointment
+The patient needs to take halog ointment
+halog ointment has been prescribed for the patient 
+The medicine prescribed for diagnosis is halog solution
+Take doses of halog solution
+The patient is advised to take halog solution
+The patient needs to take halog solution
+halog solution has been prescribed for the patient 
+The medicine prescribed for diagnosis is triazolam
+Take doses of triazolam
+The patient is advised to take triazolam
+The patient needs to take triazolam
+triazolam has been prescribed for the patient 
+The medicine prescribed for diagnosis is haloperidol injection
+Take doses of haloperidol injection
+The patient is advised to take haloperidol injection
+The patient needs to take haloperidol injection
+haloperidol injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is haloperidol decanoate
+Take doses of haloperidol decanoate
+The patient is advised to take haloperidol decanoate
+The patient needs to take haloperidol decanoate
+haloperidol decanoate has been prescribed for the patient 
+The medicine prescribed for diagnosis is halofantrine hydrochloride tablets
+Take doses of halofantrine hydrochloride tablets
+The patient is advised to take halofantrine hydrochloride tablets
+The patient needs to take halofantrine hydrochloride tablets
+halofantrine hydrochloride tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is sodium chloride sodium bicarbonate and potassium chloride
+Take doses of sodium chloride sodium bicarbonate and potassium chloride
+The patient is advised to take sodium chloride sodium bicarbonate and potassium chloride
+The patient needs to take sodium chloride sodium bicarbonate and potassium chloride
+sodium chloride sodium bicarbonate and potassium chloride has been prescribed for the patient 
+The medicine prescribed for diagnosis is ultravate cream
+Take doses of ultravate cream
+The patient is advised to take ultravate cream
+The patient needs to take ultravate cream
+ultravate cream has been prescribed for the patient 
+The medicine prescribed for diagnosis is ultravate x cream
+Take doses of ultravate x cream
+The patient is advised to take ultravate x cream
+The patient needs to take ultravate x cream
+ultravate x cream has been prescribed for the patient 
+The medicine prescribed for diagnosis is duobrii
+Take doses of duobrii
+The patient is advised to take duobrii
+The patient needs to take duobrii
+duobrii has been prescribed for the patient 
+The medicine prescribed for diagnosis is bryhali
+Take doses of bryhali
+The patient is advised to take bryhali
+The patient needs to take bryhali
+bryhali has been prescribed for the patient 
+The medicine prescribed for diagnosis is ultravate ointment
+Take doses of ultravate ointment
+The patient is advised to take ultravate ointment
+The patient needs to take ultravate ointment
+ultravate ointment has been prescribed for the patient 
+The medicine prescribed for diagnosis is halonate
+Take doses of halonate
+The patient is advised to take halonate
+The patient needs to take halonate
+halonate has been prescribed for the patient 
+The medicine prescribed for diagnosis is halfan
+Take doses of halfan
+The patient is advised to take halfan
+The patient needs to take halfan
+halfan has been prescribed for the patient 
+The medicine prescribed for diagnosis is halcinonide cream
+Take doses of halcinonide cream
+The patient is advised to take halcinonide cream
+The patient needs to take halcinonide cream
+halcinonide cream has been prescribed for the patient 
+The medicine prescribed for diagnosis is halcinonide ointment
+Take doses of halcinonide ointment
+The patient is advised to take halcinonide ointment
+The patient needs to take halcinonide ointment
+halcinonide ointment has been prescribed for the patient 
+The medicine prescribed for diagnosis is halcinonide topical solution
+Take doses of halcinonide topical solution
+The patient is advised to take halcinonide topical solution
+The patient needs to take halcinonide topical solution
+halcinonide topical solution has been prescribed for the patient 
+The medicine prescribed for diagnosis is haldol decanoate
+Take doses of haldol decanoate
+The patient is advised to take haldol decanoate
+The patient needs to take haldol decanoate
+haldol decanoate has been prescribed for the patient 
+The medicine prescribed for diagnosis is haldol
+Take doses of haldol
+The patient is advised to take haldol
+The patient needs to take haldol
+haldol has been prescribed for the patient 
+The medicine prescribed for diagnosis is fluoxymesterone
+Take doses of fluoxymesterone
+The patient is advised to take fluoxymesterone
+The patient needs to take fluoxymesterone
+fluoxymesterone has been prescribed for the patient 
+The medicine prescribed for diagnosis is fluothane
+Take doses of fluothane
+The patient is advised to take fluothane
+The patient needs to take fluothane
+fluothane has been prescribed for the patient 
+The medicine prescribed for diagnosis is ledipasvir and sofosbuvir tablets
+Take doses of ledipasvir and sofosbuvir tablets
+The patient is advised to take ledipasvir and sofosbuvir tablets
+The patient needs to take ledipasvir and sofosbuvir tablets
+ledipasvir and sofosbuvir tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is sodium hyaluronate
+Take doses of sodium hyaluronate
+The patient is advised to take sodium hyaluronate
+The patient needs to take sodium hyaluronate
+sodium hyaluronate has been prescribed for the patient 
+The medicine prescribed for diagnosis is norethindrone tablets
+Take doses of norethindrone tablets
+The patient is advised to take norethindrone tablets
+The patient needs to take norethindrone tablets
+norethindrone tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is doxercalciferol liquid filled capsule
+Take doses of doxercalciferol liquid filled capsule
+The patient is advised to take doxercalciferol liquid filled capsule
+The patient needs to take doxercalciferol liquid filled capsule
+doxercalciferol liquid filled capsule has been prescribed for the patient 
+The medicine prescribed for diagnosis is doxercalciferol injection
+Take doses of doxercalciferol injection
+The patient is advised to take doxercalciferol injection
+The patient needs to take doxercalciferol injection
+doxercalciferol injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is bismuth subsalicylate
+Take doses of bismuth subsalicylate
+The patient is advised to take bismuth subsalicylate
+The patient needs to take bismuth subsalicylate
+bismuth subsalicylate has been prescribed for the patient 
+The medicine prescribed for diagnosis is antihemophilic factor
+Take doses of antihemophilic factor
+The patient is advised to take antihemophilic factor
+The patient needs to take antihemophilic factor
+antihemophilic factor has been prescribed for the patient 
+The medicine prescribed for diagnosis is carboprost tromethamine
+Take doses of carboprost tromethamine
+The patient is advised to take carboprost tromethamine
+The patient needs to take carboprost tromethamine
+carboprost tromethamine has been prescribed for the patient 
+The medicine prescribed for diagnosis is dexamethasone tablets
+Take doses of dexamethasone tablets
+The patient is advised to take dexamethasone tablets
+The patient needs to take dexamethasone tablets
+dexamethasone tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is propranolol hydrochloride oral solution
+Take doses of propranolol hydrochloride oral solution
+The patient is advised to take propranolol hydrochloride oral solution
+The patient needs to take propranolol hydrochloride oral solution
+propranolol hydrochloride oral solution has been prescribed for the patient 
+The medicine prescribed for diagnosis is panhematin
+Take doses of panhematin
+The patient is advised to take panhematin
+The patient needs to take panhematin
+panhematin has been prescribed for the patient 
+The medicine prescribed for diagnosis is preservative free heparin lock flush solution
+Take doses of preservative free heparin lock flush solution
+The patient is advised to take preservative free heparin lock flush solution
+The patient needs to take preservative free heparin lock flush solution
+preservative free heparin lock flush solution has been prescribed for the patient 
+The medicine prescribed for diagnosis is hepatitis b immune globulin
+Take doses of hepatitis b immune globulin
+The patient is advised to take hepatitis b immune globulin
+The patient needs to take hepatitis b immune globulin
+hepatitis b immune globulin has been prescribed for the patient 
+The medicine prescribed for diagnosis is heparin
+Take doses of heparin
+The patient is advised to take heparin
+The patient needs to take heparin
+heparin has been prescribed for the patient 
+The medicine prescribed for diagnosis is lok pak
+Take doses of lok pak
+The patient is advised to take lok pak
+The patient needs to take lok pak
+lok pak has been prescribed for the patient 
+The medicine prescribed for diagnosis is hepflush 10
+Take doses of hepflush 10
+The patient is advised to take hepflush 10
+The patient needs to take hepflush 10
+hepflush 10 has been prescribed for the patient 
+The medicine prescribed for diagnosis is heparin sodium injection preservative free
+Take doses of heparin sodium injection preservative free
+The patient is advised to take heparin sodium injection preservative free
+The patient needs to take heparin sodium injection preservative free
+heparin sodium injection preservative free has been prescribed for the patient 
+The medicine prescribed for diagnosis is heparin sodium injection
+Take doses of heparin sodium injection
+The patient is advised to take heparin sodium injection
+The patient needs to take heparin sodium injection
+heparin sodium injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is heparin preservative free
+Take doses of heparin preservative free
+The patient is advised to take heparin preservative free
+The patient needs to take heparin preservative free
+heparin preservative free has been prescribed for the patient 
+The medicine prescribed for diagnosis is amino acid
+Take doses of amino acid
+The patient is advised to take amino acid
+The patient needs to take amino acid
+amino acid has been prescribed for the patient 
+The medicine prescribed for diagnosis is recombinant
+Take doses of recombinant
+The patient is advised to take recombinant
+The patient needs to take recombinant
+recombinant has been prescribed for the patient 
+The medicine prescribed for diagnosis is twinrix
+Take doses of twinrix
+The patient is advised to take twinrix
+The patient needs to take twinrix
+twinrix has been prescribed for the patient 
+The medicine prescribed for diagnosis is hepagam b
+Take doses of hepagam b
+The patient is advised to take hepagam b
+The patient needs to take hepagam b
+hepagam b has been prescribed for the patient 
+The medicine prescribed for diagnosis is hyperhep b
+Take doses of hyperhep b
+The patient is advised to take hyperhep b
+The patient needs to take hyperhep b
+hyperhep b has been prescribed for the patient 
+The medicine prescribed for diagnosis is bayhep b
+Take doses of bayhep b
+The patient is advised to take bayhep b
+The patient needs to take bayhep b
+bayhep b has been prescribed for the patient 
+The medicine prescribed for diagnosis is recombivax
+Take doses of recombivax
+The patient is advised to take recombivax
+The patient needs to take recombivax
+recombivax has been prescribed for the patient 
+The medicine prescribed for diagnosis is engerix b
+Take doses of engerix b
+The patient is advised to take engerix b
+The patient needs to take engerix b
+engerix b has been prescribed for the patient 
+The medicine prescribed for diagnosis is nabi hb
+Take doses of nabi hb
+The patient is advised to take nabi hb
+The patient needs to take nabi hb
+nabi hb has been prescribed for the patient 
+The medicine prescribed for diagnosis is heplisav b
+Take doses of heplisav b
+The patient is advised to take heplisav b
+The patient needs to take heplisav b
+heplisav b has been prescribed for the patient 
+The medicine prescribed for diagnosis is heparin lock flush solution
+Take doses of heparin lock flush solution
+The patient is advised to take heparin lock flush solution
+The patient needs to take heparin lock flush solution
+heparin lock flush solution has been prescribed for the patient 
+The medicine prescribed for diagnosis is hepatitis b vaccine solution for intramuscular injection
+Take doses of hepatitis b vaccine solution for intramuscular injection
+The patient is advised to take hepatitis b vaccine solution for intramuscular injection
+The patient needs to take hepatitis b vaccine solution for intramuscular injection
+hepatitis b vaccine solution for intramuscular injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is adefovir dipivoxil
+Take doses of adefovir dipivoxil
+The patient is advised to take adefovir dipivoxil
+The patient needs to take adefovir dipivoxil
+adefovir dipivoxil has been prescribed for the patient 
+The medicine prescribed for diagnosis is trastuzumab
+Take doses of trastuzumab
+The patient is advised to take trastuzumab
+The patient needs to take trastuzumab
+trastuzumab has been prescribed for the patient 
+The medicine prescribed for diagnosis is trastuzumab pkrb for injection
+Take doses of trastuzumab pkrb for injection
+The patient is advised to take trastuzumab pkrb for injection
+The patient needs to take trastuzumab pkrb for injection
+trastuzumab pkrb for injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is 6% hetastarch in 0 .9% sodium chloride injection
+Take doses of 6% hetastarch in 0 .9% sodium chloride injection
+The patient is advised to take 6% hetastarch in 0 .9% sodium chloride injection
+The patient needs to take 6% hetastarch in 0 .9% sodium chloride injection
+6% hetastarch in 0 .9% sodium chloride injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is tasimelteon capsules
+Take doses of tasimelteon capsules
+The patient is advised to take tasimelteon capsules
+The patient needs to take tasimelteon capsules
+tasimelteon capsules has been prescribed for the patient 
+The medicine prescribed for diagnosis is ioxaglate meglumine 39.3% and ioxaglate sodium 19.6% injection
+Take doses of ioxaglate meglumine 39.3% and ioxaglate sodium 19.6% injection
+The patient is advised to take ioxaglate meglumine 39.3% and ioxaglate sodium 19.6% injection
+The patient needs to take ioxaglate meglumine 39.3% and ioxaglate sodium 19.6% injection
+ioxaglate meglumine 39.3% and ioxaglate sodium 19.6% injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is phisohex
+Take doses of phisohex
+The patient is advised to take phisohex
+The patient needs to take phisohex
+phisohex has been prescribed for the patient 
+The medicine prescribed for diagnosis is altretamine
+Take doses of altretamine
+The patient is advised to take altretamine
+The patient needs to take altretamine
+altretamine has been prescribed for the patient 
+The medicine prescribed for diagnosis is cysview
+Take doses of cysview
+The patient is advised to take cysview
+The patient needs to take cysview
+cysview has been prescribed for the patient 
+The medicine prescribed for diagnosis is 6% hetastarch in lactated electrolyte injection
+Take doses of 6% hetastarch in lactated electrolyte injection
+The patient is advised to take 6% hetastarch in lactated electrolyte injection
+The patient needs to take 6% hetastarch in lactated electrolyte injection
+6% hetastarch in lactated electrolyte injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is haemophilus b conjugate vaccine tetanus toxoid conjugate for intramuscular injection
+Take doses of haemophilus b conjugate vaccine tetanus toxoid conjugate for intramuscular injection
+The patient is advised to take haemophilus b conjugate vaccine tetanus toxoid conjugate for intramuscular injection
+The patient needs to take haemophilus b conjugate vaccine tetanus toxoid conjugate for intramuscular injection
+haemophilus b conjugate vaccine tetanus toxoid conjugate for intramuscular injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is diphtheria crm197 protein conjugate
+Take doses of diphtheria crm197 protein conjugate
+The patient is advised to take diphtheria crm197 protein conjugate
+The patient needs to take diphtheria crm197 protein conjugate
+diphtheria crm197 protein conjugate has been prescribed for the patient 
+The medicine prescribed for diagnosis is sodium iodide i 131
+Take doses of sodium iodide i 131
+The patient is advised to take sodium iodide i 131
+The patient needs to take sodium iodide i 131
+sodium iodide i 131 has been prescribed for the patient 
+The medicine prescribed for diagnosis is monovisc
+Take doses of monovisc
+The patient is advised to take monovisc
+The patient needs to take monovisc
+monovisc has been prescribed for the patient 
+The medicine prescribed for diagnosis is zyderm
+Take doses of zyderm
+The patient is advised to take zyderm
+The patient needs to take zyderm
+zyderm has been prescribed for the patient 
+The medicine prescribed for diagnosis is feriva
+Take doses of feriva
+The patient is advised to take feriva
+The patient needs to take feriva
+feriva has been prescribed for the patient 
+The medicine prescribed for diagnosis is astemizole
+Take doses of astemizole
+The patient is advised to take astemizole
+The patient needs to take astemizole
+astemizole has been prescribed for the patient 
+The medicine prescribed for diagnosis is vantas
+Take doses of vantas
+The patient is advised to take vantas
+The patient needs to take vantas
+vantas has been prescribed for the patient 
+The medicine prescribed for diagnosis is supprelin la
+Take doses of supprelin la
+The patient is advised to take supprelin la
+The patient needs to take supprelin la
+supprelin la has been prescribed for the patient 
+The medicine prescribed for diagnosis is zalcitabine
+Take doses of zalcitabine
+The patient is advised to take zalcitabine
+The patient needs to take zalcitabine
+zalcitabine has been prescribed for the patient 
+The medicine prescribed for diagnosis is immune globulin subcutaneous
+Take doses of immune globulin subcutaneous
+The patient is advised to take immune globulin subcutaneous
+The patient needs to take immune globulin subcutaneous
+immune globulin subcutaneous has been prescribed for the patient 
+The medicine prescribed for diagnosis is medrysone 1% liquifilm opthalmic
+Take doses of medrysone 1% liquifilm opthalmic
+The patient is advised to take medrysone 1% liquifilm opthalmic
+The patient needs to take medrysone 1% liquifilm opthalmic
+medrysone 1% liquifilm opthalmic has been prescribed for the patient 
+The medicine prescribed for diagnosis is speedgel
+Take doses of speedgel
+The patient is advised to take speedgel
+The patient needs to take speedgel
+speedgel has been prescribed for the patient 
+The medicine prescribed for diagnosis is gabapentin enacarbil extended release tablets
+Take doses of gabapentin enacarbil extended release tablets
+The patient is advised to take gabapentin enacarbil extended release tablets
+The patient needs to take gabapentin enacarbil extended release tablets
+gabapentin enacarbil extended release tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is dermatophagoides pteronyssinus
+Take doses of dermatophagoides pteronyssinus
+The patient is advised to take dermatophagoides pteronyssinus
+The patient needs to take dermatophagoides pteronyssinus
+dermatophagoides pteronyssinus has been prescribed for the patient 
+The medicine prescribed for diagnosis is insulin lispro
+Take doses of insulin lispro
+The patient is advised to take insulin lispro
+The patient needs to take insulin lispro
+insulin lispro has been prescribed for the patient 
+The medicine prescribed for diagnosis is 75 25 insulin lispro suspension and 25 insulin lispro injection
+Take doses of 75 25 insulin lispro suspension and 25 insulin lispro injection
+The patient is advised to take 75 25 insulin lispro suspension and 25 insulin lispro injection
+The patient needs to take 75 25 insulin lispro suspension and 25 insulin lispro injection
+75 25 insulin lispro suspension and 25 insulin lispro injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is raxibacumab
+Take doses of raxibacumab
+The patient is advised to take raxibacumab
+The patient needs to take raxibacumab
+raxibacumab has been prescribed for the patient 
+The medicine prescribed for diagnosis is cervarix
+Take doses of cervarix
+The patient is advised to take cervarix
+The patient needs to take cervarix
+cervarix has been prescribed for the patient 
+The medicine prescribed for diagnosis is chirhostim
+Take doses of chirhostim
+The patient is advised to take chirhostim
+The patient needs to take chirhostim
+chirhostim has been prescribed for the patient 
+The medicine prescribed for diagnosis is paromomycin sulfate capsules
+Take doses of paromomycin sulfate capsules
+The patient is advised to take paromomycin sulfate capsules
+The patient needs to take paromomycin sulfate capsules
+paromomycin sulfate capsules has been prescribed for the patient 
+The medicine prescribed for diagnosis is somatropin rdna origin
+Take doses of somatropin rdna origin
+The patient is advised to take somatropin rdna origin
+The patient needs to take somatropin rdna origin
+somatropin rdna origin has been prescribed for the patient 
+The medicine prescribed for diagnosis is adalimumab injection solution for subcutaneous administration
+Take doses of adalimumab injection solution for subcutaneous administration
+The patient is advised to take adalimumab injection solution for subcutaneous administration
+The patient needs to take adalimumab injection solution for subcutaneous administration
+adalimumab injection solution for subcutaneous administration has been prescribed for the patient 
+The medicine prescribed for diagnosis is demecarium
+Take doses of demecarium
+The patient is advised to take demecarium
+The patient needs to take demecarium
+demecarium has been prescribed for the patient 
+The medicine prescribed for diagnosis is 50 50 human insulin isophane suspension and human insulin injection
+Take doses of 50 50 human insulin isophane suspension and human insulin injection
+The patient is advised to take 50 50 human insulin isophane suspension and human insulin injection
+The patient needs to take 50 50 human insulin isophane suspension and human insulin injection
+50 50 human insulin isophane suspension and human insulin injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is insulin
+Take doses of insulin
+The patient is advised to take insulin
+The patient needs to take insulin
+insulin has been prescribed for the patient 
+The medicine prescribed for diagnosis is insulin human injection for subcutaneous use
+Take doses of insulin human injection for subcutaneous use
+The patient is advised to take insulin human injection for subcutaneous use
+The patient needs to take insulin human injection for subcutaneous use
+insulin human injection for subcutaneous use has been prescribed for the patient 
+The medicine prescribed for diagnosis is hyaluronate
+Take doses of hyaluronate
+The patient is advised to take hyaluronate
+The patient needs to take hyaluronate
+hyaluronate has been prescribed for the patient 
+The medicine prescribed for diagnosis is hyalgan
+Take doses of hyalgan
+The patient is advised to take hyalgan
+The patient needs to take hyalgan
+hyalgan has been prescribed for the patient 
+The medicine prescribed for diagnosis is restylane
+Take doses of restylane
+The patient is advised to take restylane
+The patient needs to take restylane
+restylane has been prescribed for the patient 
+The medicine prescribed for diagnosis is restylane l
+Take doses of restylane l
+The patient is advised to take restylane l
+The patient needs to take restylane l
+restylane l has been prescribed for the patient 
+The medicine prescribed for diagnosis is juvéderm ultra xc
+Take doses of juvéderm ultra xc
+The patient is advised to take juvéderm ultra xc
+The patient needs to take juvéderm ultra xc
+juvéderm ultra xc has been prescribed for the patient 
+The medicine prescribed for diagnosis is juvéderm voluma xc
+Take doses of juvéderm voluma xc
+The patient is advised to take juvéderm voluma xc
+The patient needs to take juvéderm voluma xc
+juvéderm voluma xc has been prescribed for the patient 
+The medicine prescribed for diagnosis is hylenex
+Take doses of hylenex
+The patient is advised to take hylenex
+The patient needs to take hylenex
+hylenex has been prescribed for the patient 
+The medicine prescribed for diagnosis is amphadase
+Take doses of amphadase
+The patient is advised to take amphadase
+The patient needs to take amphadase
+amphadase has been prescribed for the patient 
+The medicine prescribed for diagnosis is vitrase
+Take doses of vitrase
+The patient is advised to take vitrase
+The patient needs to take vitrase
+vitrase has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydase
+Take doses of hydase
+The patient is advised to take hydase
+The patient needs to take hydase
+hydase has been prescribed for the patient 
+The medicine prescribed for diagnosis is topotecan hydrochloride
+Take doses of topotecan hydrochloride
+The patient is advised to take topotecan hydrochloride
+The patient needs to take topotecan hydrochloride
+topotecan hydrochloride has been prescribed for the patient 
+The medicine prescribed for diagnosis is topotecan capsules
+Take doses of topotecan capsules
+The patient is advised to take topotecan capsules
+The patient needs to take topotecan capsules
+topotecan capsules has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydrocodone bitartrate and homatropine methylbromide
+Take doses of hydrocodone bitartrate and homatropine methylbromide
+The patient is advised to take hydrocodone bitartrate and homatropine methylbromide
+The patient needs to take hydrocodone bitartrate and homatropine methylbromide
+hydrocodone bitartrate and homatropine methylbromide has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydrocodone bitartrate and guaifenesin
+Take doses of hydrocodone bitartrate and guaifenesin
+The patient is advised to take hydrocodone bitartrate and guaifenesin
+The patient needs to take hydrocodone bitartrate and guaifenesin
+hydrocodone bitartrate and guaifenesin has been prescribed for the patient 
+The medicine prescribed for diagnosis is hyaluronidase injection
+Take doses of hyaluronidase injection
+The patient is advised to take hyaluronidase injection
+The patient needs to take hyaluronidase injection
+hyaluronidase injection has been prescribed for the patient 
+The medicine prescribed for diagnosis is apresoline
+Take doses of apresoline
+The patient is advised to take apresoline
+The patient needs to take apresoline
+apresoline has been prescribed for the patient 
+The medicine prescribed for diagnosis is apresazide
+Take doses of apresazide
+The patient is advised to take apresazide
+The patient needs to take apresazide
+apresazide has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydro 35
+Take doses of hydro 35
+The patient is advised to take hydro 35
+The patient needs to take hydro 35
+hydro 35 has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydroxyurea
+Take doses of hydroxyurea
+The patient is advised to take hydroxyurea
+The patient needs to take hydroxyurea
+hydroxyurea has been prescribed for the patient 
+The medicine prescribed for diagnosis is hydrating topical foam
+Take doses of hydrating topical foam
+The patient is advised to take hydrating topical foam
+The patient needs to take hydrating topical foam
+hydrating topical foam has been prescribed for the patient 
+The medicine prescribed for diagnosis is dyazide
+Take doses of dyazide
+The patient is advised to take dyazide
+The patient needs to take dyazide
+dyazide has been prescribed for the patient 
+The medicine prescribed for diagnosis is microzide
+Take doses of microzide
+The patient is advised to take microzide
+The patient needs to take microzide
+microzide has been prescribed for the patient 
+The medicine prescribed for diagnosis is tussionex
+Take doses of tussionex
+The patient is advised to take tussionex
+The patient needs to take tussionex
+tussionex has been prescribed for the patient 
+The medicine prescribed for diagnosis is vicoprofen
+Take doses of vicoprofen
+The patient is advised to take vicoprofen
+The patient needs to take vicoprofen
+vicoprofen has been prescribed for the patient 
+The medicine prescribed for diagnosis is vicodin
+Take doses of vicodin
+The patient is advised to take vicodin
+The patient needs to take vicodin
+vicodin has been prescribed for the patient 
+The medicine prescribed for diagnosis is norco
+Take doses of norco
+The patient is advised to take norco
+The patient needs to take norco
+norco has been prescribed for the patient 
+The medicine prescribed for diagnosis is norco 5/325
+Take doses of norco 5/325
+The patient is advised to take norco 5/325
+The patient needs to take norco 5/325
+norco 5/325 has been prescribed for the patient 
+The medicine prescribed for diagnosis is zydone
+Take doses of zydone
+The patient is advised to take zydone
+The patient needs to take zydone
+zydone has been prescribed for the patient 
+The medicine prescribed for diagnosis is vicodin es
+Take doses of vicodin es
+The patient is advised to take vicodin es
+The patient needs to take vicodin es
+vicodin es has been prescribed for the patient 
+The medicine prescribed for diagnosis is lortab elixir
+Take doses of lortab elixir
+The patient is advised to take lortab elixir
+The patient needs to take lortab elixir
+lortab elixir has been prescribed for the patient 
+The medicine prescribed for diagnosis is zolvit
+Take doses of zolvit
+The patient is advised to take zolvit
+The patient needs to take zolvit
+zolvit has been prescribed for the patient 
+The medicine prescribed for diagnosis is zamicet
+Take doses of zamicet
+The patient is advised to take zamicet
+The patient needs to take zamicet
+zamicet has been prescribed for the patient 
+The medicine prescribed for diagnosis is zyfrel
+Take doses of zyfrel
+The patient is advised to take zyfrel
+The patient needs to take zyfrel
+zyfrel has been prescribed for the patient 
+The medicine prescribed for diagnosis is lorcet
+Take doses of lorcet
+The patient is advised to take lorcet
+The patient needs to take lorcet
+lorcet has been prescribed for the patient 
+The medicine prescribed for diagnosis is lortab 2.5
+Take doses of lortab 2.5
+The patient is advised to take lortab 2.5
+The patient needs to take lortab 2.5
+lortab 2.5 has been prescribed for the patient 
+The medicine prescribed for diagnosis is lortab 5
+Take doses of lortab 5
+The patient is advised to take lortab 5
+The patient needs to take lortab 5
+lortab 5 has been prescribed for the patient 
+The medicine prescribed for diagnosis is lortab 7.5
+Take doses of lortab 7.5
+The patient is advised to take lortab 7.5
+The patient needs to take lortab 7.5
+lortab 7.5 has been prescribed for the patient 
+The medicine prescribed for diagnosis is lortab 10
+Take doses of lortab 10
+The patient is advised to take lortab 10
+The patient needs to take lortab 10
+lortab 10 has been prescribed for the patient 
+The medicine prescribed for diagnosis is vicodin hp
+Take doses of vicodin hp
+The patient is advised to take vicodin hp
+The patient needs to take vicodin hp
+vicodin hp has been prescribed for the patient 
+The medicine prescribed for diagnosis is xodol
+Take doses of xodol
+The patient is advised to take xodol
+The patient needs to take xodol
+xodol has been prescribed for the patient 
+The medicine prescribed for diagnosis is vituz
+Take doses of vituz
+The patient is advised to take vituz
+The patient needs to take vituz
+vituz has been prescribed for the patient 
+The medicine prescribed for diagnosis is hycotuss
+Take doses of hycotuss
+The patient is advised to take hycotuss
+The patient needs to take hycotuss
+hycotuss has been prescribed for the patient 
+The medicine prescribed for diagnosis is flowtuss
+Take doses of flowtuss
+The patient is advised to take flowtuss
+The patient needs to take flowtuss
+flowtuss has been prescribed for the patient 
+The medicine prescribed for diagnosis is obredon
+Take doses of obredon
+The patient is advised to take obredon
+The patient needs to take obredon
+obredon has been prescribed for the patient 
+The medicine prescribed for diagnosis is xtrelus
+Take doses of xtrelus
+The patient is advised to take xtrelus
+The patient needs to take xtrelus
+xtrelus has been prescribed for the patient 
+The medicine prescribed for diagnosis is hycodan
+Take doses of hycodan
+The patient is advised to take hycodan
+The patient needs to take hycodan
+hycodan has been prescribed for the patient 
+The medicine prescribed for diagnosis is tussigon
+Take doses of tussigon
+The patient is advised to take tussigon
+The patient needs to take tussigon
+tussigon has been prescribed for the patient 
+The medicine prescribed for diagnosis is reprexain tablets
+Take doses of reprexain tablets
+The patient is advised to take reprexain tablets
+The patient needs to take reprexain tablets
+reprexain tablets has been prescribed for the patient 
+The medicine prescribed for diagnosis is rezira
+Take doses of rezira
+The patient is advised to take rezira
+The patient needs to take rezira
+rezira has been prescribed for the patient 
+The medicine prescribed for diagnosis is zohydro er
+Take doses of zohydro er
+The patient is advised to take zohydro er
+The patient needs to take zohydro er
+zohydro er has been prescribed for the patient 
+The medicine prescribed for diagnosis is hysingla er
+Take doses of hysingla er
+The patient is advised to take hysingla er
+The patient needs to take hysingla er
+hysingla er has been prescribed for the patient 
+The medicine prescribed for diagnosis is vantrela er
+Take doses of vantrela er

@@ -1,0 +1,82 @@
+cold
+high temperature
+pressure
+blood pressure
+vomiting
+dizziness
+bleeding
+coughing
+coughing blood
+nosebleed
+earbleed
+headache
+nausea
+blood vomit
+body pain
+muscle cramps
+hairfall
+rashes
+redness
+loss of vision
+heavy breathing
+difficulty in breathing
+constipation
+loose motion
+dysentry
+swelling
+discharge
+boils
+pus
+flaking of skin
+dryness in throat
+sore throat
+difficulty swallowing
+hives
+toothache
+gum pain
+swelling of tongue
+redness of the eye
+itching of eye
+itching
+shivering
+backache
+shaking
+pins and needles
+loss of hearing
+tinnitus
+hearing loss
+slurred speech
+fits
+frequent urination
+drowsiness
+fidgeting
+muscle stiffness
+cramps
+
+
+
+
+
+
+high temperature
+pressure
+blood pressure
+headache
+nausea
+nosebleed
+cramps
+sore throat
+dizziness
+vomiting
+body pain
+swelling
+itching of eye
+itching
+shivering
+backache
+hairfall
+rashes
+redness
+loss of vision
+heavy breathing
+hearing loss
